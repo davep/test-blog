@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://blog.davep.org</id>
   <title>davep</title>
-  <updated>2026-02-18T15:10:41.667824+00:00</updated>
+  <updated>2026-02-18T17:39:42.836722+00:00</updated>
   <link href="https://blog.davep.org/feeds/all.atom.xml" rel="self"/>
   <link href="https://blog.davep.org" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -11,7 +11,37 @@
     <id>https://blog.davep.org/2026/02/18/testing.html</id>
     <title>Test</title>
     <updated>2026-02-18T13:34:00+00:00</updated>
-    <content type="html">&lt;p&gt;Check this out, it's a test post!&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;Check this out, it's a test post!&lt;/p&gt;
+&lt;div class="admonition admonition-note"&gt;
+&lt;div class="admonition-title"&gt;ℹ️ Note&lt;/div&gt;
+&lt;div class="admonition-content"&gt;
+&lt;p&gt;Useful information with &lt;strong&gt;formatting&lt;/strong&gt; and &lt;a href="url"&gt;links&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-tip"&gt;
+&lt;div class="admonition-title"&gt;💡 Tip&lt;/div&gt;
+&lt;div class="admonition-content"&gt;
+&lt;p&gt;Helpful advice for doing things better.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-important"&gt;
+&lt;div class="admonition-title"&gt;❗ Important&lt;/div&gt;
+&lt;div class="admonition-content"&gt;
+&lt;p&gt;Key information users need to know.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-warning"&gt;
+&lt;div class="admonition-title"&gt;⚠️ Warning&lt;/div&gt;
+&lt;div class="admonition-content"&gt;
+&lt;p&gt;Urgent info requiring immediate attention.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="admonition admonition-caution"&gt;
+&lt;div class="admonition-title"&gt;🚨 Caution&lt;/div&gt;
+&lt;div class="admonition-content"&gt;
+&lt;p&gt;Advises about risks or negative outcomes.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
     <link href="https://blog.davep.org/2026/02/18/testing.html"/>
     <category term="Coding"/>
     <category term="Python"/>
