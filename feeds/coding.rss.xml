@@ -8,7 +8,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 13:35:00 +0000</lastBuildDate>
+    <item>
+      <title>Test</title>
+      <link>https://blog.davep.org/2026/02/18/testing.html</link>
+      <description>&lt;p&gt;Check this out, it's a test post!&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://blog.davep.org/2026/02/18/testing.html</guid>
+      <category>Coding</category>
+      <category>Python</category>
+      <category>blogging</category>
+      <pubDate>Wed, 18 Feb 2026 13:34:00 +0000</pubDate>
+    </item>
     <item>
       <title>OldNews - A terminal-based client for TheOldReader</title>
       <link>https://blog.davep.org/2026/02/11/oldnews.html</link>
@@ -1506,44 +1516,6 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
       <category>textual</category>
       <category>YouTube</category>
       <pubDate>Thu, 18 Apr 2024 16:46:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>PISpy v0.6.0</title>
-      <link>https://blog.davep.org/2024/04/17/pispy-0-6-0.html</link>
-      <description>&lt;p&gt;Back in the very early days of the &lt;a href="https://blog.davep.org/2024/03/28/goodbye-textualize.html"&gt;Textual
-adventure&lt;/a&gt;,
-within the first month or so of working on the framework, we &lt;a href="https://textual.textualize.io/blog/2022/11/26/on-dog-food-the-original-metaverse-and-not-being-bored/" rel="noopener noreferrer" target="_blank"&gt;had a period
-of
-dogfooding&lt;/a&gt;.
-One of the projects I wrote during that time was a little tool &lt;a href="https://textual.textualize.io/blog/2022/12/08/be-the-keymaster/#pispy" rel="noopener noreferrer" target="_blank"&gt;I called
-PISpy&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The initial version was pretty much a quick hack; during that dogfooding
-period I did my best to try and develop a new project every couple of days.
-Since then I've let PISpy descend into &lt;a href="https://en.wikipedia.org/wiki/Software_rot" rel="noopener noreferrer" target="_blank"&gt;bit
-rot&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In the last week or so I've turned my attention back to it and made an
-effort to &lt;a href="https://www.youtube.com/watch?v=CepsN8TDq1E" rel="noopener noreferrer" target="_blank"&gt;tidy up the code&lt;/a&gt;,
-&lt;a href="https://www.youtube.com/watch?v=t2EUXA8RkN0" rel="noopener noreferrer" target="_blank"&gt;tidy it some more&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=2u5CfrgZWcc" rel="noopener noreferrer" target="_blank"&gt;and some
-more&lt;/a&gt;, and &lt;a href="https://www.youtube.com/watch?v=CDCvWCZx1AM" rel="noopener noreferrer" target="_blank"&gt;even some
-more&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This morning I put the finishing touches to these changes and released
-&lt;a href="https://github.com/davep/pispy/releases/tag/v0.6.0" rel="noopener noreferrer" target="_blank"&gt;v0.6.0&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/67xtMdstbx4" rel="noopener noreferrer" target="_blank"&gt;&lt;img alt="PISpy in action" src="/attachments/2024/04/17/pispy-in-action.gif#centre" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;PISpy can be installed with &lt;code&gt;pip&lt;/code&gt; or (ideallty) &lt;code&gt;pipx&lt;/code&gt; &lt;a href="https://pypi.org/project/pispy-client/" rel="noopener noreferrer" target="_blank"&gt;from
-PyPI&lt;/a&gt;. It can also be installed with
-Homebrew by tapping &lt;code&gt;davep/homebrew&lt;/code&gt; and then installing &lt;code&gt;pispy&lt;/code&gt;:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;$&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;tap&lt;span class="w"&gt; &lt;/span&gt;davep/homebrew
-$&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;pispy
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;The &lt;a href="https://github.com/davep/pispy" rel="noopener noreferrer" target="_blank"&gt;source is available on GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2024/04/17/pispy-0-6-0.html</guid>
-      <category>Coding</category>
-      <category>Python</category>
-      <category>terminal</category>
-      <category>textual</category>
-      <category>YouTube</category>
-      <pubDate>Wed, 17 Apr 2024 11:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
