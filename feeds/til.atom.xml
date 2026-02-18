@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.857909+00:00</updated>
-  <link href="https://blog.davep.org/feeds/til.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.244878+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/til.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "TIL" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2026/01/27/til-uvx-sh.html</id>
+    <id>https://test-blog.davep.dev/2026/01/27/til-uvx-sh.html</id>
     <title>TIL - uvx.sh</title>
     <updated>2026-01-27T16:03:00+00:00</updated>
     <content type="html">&lt;p&gt;In the past few months, like a lot of folk in the Python world, I've been
@@ -39,7 +39,7 @@ about the &lt;em&gt;"just pipe this stuff via &lt;code&gt;sh&lt;/code&gt; trust 
 you are comfortable with suggesting this kind of install method it looks
 worth adding this to an application's installation documentation.&lt;/p&gt;
 &lt;p&gt;I think I'm going to start mentioning it as an option.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2026/01/27/til-uvx-sh.html"/>
+    <link href="https://test-blog.davep.dev/2026/01/27/til-uvx-sh.html"/>
     <category term="TIL"/>
     <category term="Python"/>
     <category term="PyPI"/>
@@ -47,7 +47,7 @@ worth adding this to an application's installation documentation.&lt;/p&gt;
     <published>2026-01-27T16:03:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/14/cmd-tab-switcher-on-all-screens.html</id>
+    <id>https://test-blog.davep.dev/2023/07/14/cmd-tab-switcher-on-all-screens.html</id>
     <title>Cmd-Tab switcher on all screens</title>
     <updated>2023-07-14T07:56:00+01:00</updated>
     <content type="html">&lt;p&gt;This week, on Monday gone in fact, &lt;a href="https://www.textualize.io/" rel="noopener noreferrer" target="_blank"&gt;we&lt;/a&gt; moved
@@ -91,7 +91,7 @@ home&lt;/a&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="J
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/07/14/cmd-tab-switcher-on-all-screens.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/14/cmd-tab-switcher-on-all-screens.html"/>
     <category term="TIL"/>
     <category term="Apple"/>
     <category term="Mac"/>
@@ -100,7 +100,7 @@ home&lt;/a&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="J
     <published>2023-07-14T07:56:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/07/18/swift-til-12.html</id>
+    <id>https://test-blog.davep.dev/2020/07/18/swift-til-12.html</id>
     <title>Swift TIL 12</title>
     <updated>2020-07-18T10:16:00+01:00</updated>
     <content type="html">&lt;p&gt;First a small aside: To be honest, the &lt;code&gt;T&lt;/code&gt; part of &lt;code&gt;TIL&lt;/code&gt; is getting to be
@@ -184,14 +184,14 @@ this, but it was a handy test on the command line):&lt;/p&gt;
 test/experience the language feature on the command line.&lt;/p&gt;
 &lt;p&gt;I like it though. I figure &lt;a href="https://clojuredocs.org/clojure.core/when-let" rel="noopener noreferrer" target="_blank"&gt;all the best languages have conditional
 binding&lt;/a&gt;. ;-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/07/18/swift-til-12.html"/>
+    <link href="https://test-blog.davep.dev/2020/07/18/swift-til-12.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-07-18T10:16:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/07/11/swift-til-11.html</id>
+    <id>https://test-blog.davep.dev/2020/07/11/swift-til-11.html</id>
     <title>Swift TIL 11</title>
     <updated>2020-07-11T21:34:00+01:00</updated>
     <content type="html">&lt;p&gt;This is one of those things, especially this little play to help appreciate
@@ -254,14 +254,14 @@ use "emoji" as identifiers?&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Why yes. Yes we can. 😈&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/07/11/swift-til-11.html"/>
+    <link href="https://test-blog.davep.dev/2020/07/11/swift-til-11.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-07-11T21:34:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/07/05/swift-til-10.html</id>
+    <id>https://test-blog.davep.dev/2020/07/05/swift-til-10.html</id>
     <title>Swift TIL 10</title>
     <updated>2020-07-05T15:27:00+01:00</updated>
     <content type="html">&lt;p&gt;My leisurely journey into getting to know Swift by reading and then making
@@ -313,14 +313,14 @@ the idea of, up front, writing "look, any time there's a GTFO in the code
 that follows, this will happen" -- you're made aware pretty quickly of what
 to expect.&lt;/p&gt;
 &lt;p&gt;Anyway, it's good to know Swift has something similar to a &lt;code&gt;finally&lt;/code&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/07/05/swift-til-10.html"/>
+    <link href="https://test-blog.davep.dev/2020/07/05/swift-til-10.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-07-05T15:27:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/30/swift-til-9.html</id>
+    <id>https://test-blog.davep.dev/2020/06/30/swift-til-9.html</id>
     <title>Swift TIL 9</title>
     <updated>2020-06-30T21:02:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;em&gt;Some may be happy to know that the frequency of these little notes to
@@ -383,14 +383,14 @@ there's no obvious benefit either way, the choice of using &lt;code&gt;class&lt;
 &lt;code&gt;struct&lt;/code&gt; is something that could have performance implications. That's
 something for me to look into more another day; but this is a note here to
 myself that it's a thing to keep in mind.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/30/swift-til-9.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/30/swift-til-9.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-30T21:02:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/29/swift-til-8.html</id>
+    <id>https://test-blog.davep.dev/2020/06/29/swift-til-8.html</id>
     <title>Swift TIL 8</title>
     <updated>2020-06-29T22:48:00+01:00</updated>
     <content type="html">&lt;p&gt;Although I read up on it a few days back, it was only this evening that I
@@ -500,14 +500,14 @@ That&lt;span class="w"&gt; &lt;/span&gt;totally&lt;span class="w"&gt; &lt;/span&
 so given the above I'd ensure I never end up in this sort of situation in
 the first place. But for the purposes of writing and compiling and running
 code and seeing what the different situations result in, it helped.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/29/swift-til-8.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/29/swift-til-8.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-29T22:48:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/28/swift-til-7.html</id>
+    <id>https://test-blog.davep.dev/2020/06/28/swift-til-7.html</id>
     <title>Swift TIL 7</title>
     <updated>2020-06-28T16:25:00+01:00</updated>
     <content type="html">&lt;p&gt;This post is &lt;em&gt;very&lt;/em&gt; much a case of me writing it down to try and get it all
@@ -541,14 +541,14 @@ as code:&lt;/p&gt;
 
 &lt;p&gt;I think it makes a lot more sense. And having got there I felt I better
 understood it. I'm not 100% sure I'm 100% with it, but I'm getting there.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/28/swift-til-7.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/28/swift-til-7.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-28T16:25:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/27/swift-til-6.html</id>
+    <id>https://test-blog.davep.dev/2020/06/27/swift-til-6.html</id>
     <title>Swift TIL 6</title>
     <updated>2020-06-27T21:23:00+01:00</updated>
     <content type="html">&lt;p&gt;I'm going to file this one under "it seems really unnecessary, but it's also
@@ -596,14 +596,14 @@ object. For example:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;I can see that being quite handy.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/27/swift-til-6.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/27/swift-til-6.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-27T21:23:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/26/switch-til-5.html</id>
+    <id>https://test-blog.davep.dev/2020/06/26/switch-til-5.html</id>
     <title>Swift TIL 5</title>
     <updated>2020-06-26T15:44:00+01:00</updated>
     <content type="html">&lt;p&gt;I'm going to file this one under "it makes perfect sense, but I don't think
@@ -642,14 +642,14 @@ use &lt;code&gt;Self&lt;/code&gt; rather than having to use &lt;code&gt;Greeting
 setting things up for either mistyping or misreading code. You're going to
 want to hope that your development environment makes it super obvious what's
 a value and what's a type when it comes to using font choices.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/26/switch-til-5.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/26/switch-til-5.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-26T15:44:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/25/swift-til-4.html</id>
+    <id>https://test-blog.davep.dev/2020/06/25/swift-til-4.html</id>
     <title>Swift TIL 4</title>
     <updated>2020-06-25T13:21:00+01:00</updated>
     <content type="html">&lt;p&gt;Some languages favour a &lt;a href="https://www.python.org/dev/peps/pep-0020/" rel="noopener noreferrer" target="_blank"&gt;"one way to do
@@ -682,14 +682,14 @@ still struck me as rather odd on first reading. I also think it's worth me
 making a personal note about it because &lt;code&gt;foo.toggle()&lt;/code&gt; isn't going to stand
 out as much as &lt;code&gt;foo = !foo&lt;/code&gt; when reading code. At least not for a short
 while.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/25/swift-til-4.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/25/swift-til-4.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-25T13:21:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/24/swift-til-3.html</id>
+    <id>https://test-blog.davep.dev/2020/06/24/swift-til-3.html</id>
     <title>Swift TIL 3</title>
     <updated>2020-06-24T16:38:00+01:00</updated>
     <content type="html">&lt;p&gt;Today's little "Swift TIL" is observers. While reading up on the language I
@@ -719,14 +719,14 @@ Swift is put to, I can think of many times when I'd have benefitted from
 that in my general day-to-day work. Of course, you can create an observer
 approach in any language really, but having an idiom that's part of the
 language feels nice and tidy.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/24/swift-til-3.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/24/swift-til-3.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-24T16:38:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/23/swift-til-2.html</id>
+    <id>https://test-blog.davep.dev/2020/06/23/swift-til-2.html</id>
     <title>Swift TIL 2</title>
     <updated>2020-06-23T14:21:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;a href="/2020/06/22/swift-til-1.html"&gt;Following on&lt;/a&gt; with writing little notes to
@@ -745,14 +745,14 @@ ambiguous, you can omit &lt;code&gt;self.&lt;/code&gt; from the call. For exampl
 &lt;p&gt;This makes me feel a little uneasy, and I strongly suspect I'll always use
 &lt;code&gt;self.&lt;/code&gt; when writing such code: I'm a big fan of the idea that we write code
 for people, not for compilers.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/23/swift-til-2.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/23/swift-til-2.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>
     <published>2020-06-23T14:21:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/22/swift-til-1.html</id>
+    <id>https://test-blog.davep.dev/2020/06/22/swift-til-1.html</id>
     <title>Swift TIL 1</title>
     <updated>2020-06-22T13:18:00+01:00</updated>
     <content type="html">&lt;p&gt;As &lt;a href="/2020/06/21/a-second-attempt-to-learn-swift.html"&gt;I mentioned
@@ -770,7 +770,7 @@ them with backticks. Kind of like this:&lt;/p&gt;
 
 &lt;p&gt;I'm struggling to imagine a situation where I'd ever want to do this. I'm
 still unsure if my reaction is "that's cool" or "WTF?!?".&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/22/swift-til-1.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/22/swift-til-1.html"/>
     <category term="TIL"/>
     <category term="Swift"/>
     <category term="Apple"/>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.889413+00:00</updated>
-  <link href="https://blog.davep.org/feeds/emacs.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.279490+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/emacs.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Emacs" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2022/08/23/i-must-be-getting-old.html</id>
+    <id>https://test-blog.davep.dev/2022/08/23/i-must-be-getting-old.html</id>
     <title>I must be getting old</title>
     <updated>2022-08-23T21:31:00+01:00</updated>
     <content type="html">&lt;p&gt;A little earlier this evening I got &lt;a href="https://github.com/davep/boxquote.el/issues/7" rel="noopener noreferrer" target="_blank"&gt;a new
@@ -98,7 +98,7 @@ my first ever attempt at writing some non-trivial Elisp code).&lt;/p&gt;
 &lt;p&gt;So... yeah... here we are. I'm now old enough to have written some Emacs
 Lisp code, had it required by the FSF for inclusion in Emacs, had it live in
 there for something like two decades, and then &lt;em&gt;become obselete&lt;/em&gt;!&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2022/08/23/i-must-be-getting-old.html"/>
+    <link href="https://test-blog.davep.dev/2022/08/23/i-must-be-getting-old.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -106,7 +106,7 @@ there for something like two decades, and then &lt;em&gt;become obselete&lt;/em&
     <published>2022-08-23T21:31:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/14/my-journey-to-the-dark-side-is-complete.html</id>
+    <id>https://test-blog.davep.dev/2020/06/14/my-journey-to-the-dark-side-is-complete.html</id>
     <title>My journey to the dark side is complete</title>
     <updated>2020-06-14T20:00:00+01:00</updated>
     <content type="html">&lt;p&gt;Ever since the whole business of "light mode" and "dark mode" really kicked
@@ -185,13 +185,13 @@ is, I'm not sure I ever really pay that much attention to that either. So,
 as a test, I've also been running with them turned off and, so far, I'm
 really not noticing them been gone.&lt;/p&gt;
 &lt;p&gt;The habits we form that we convince ourselves make sense...&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/06/14/my-journey-to-the-dark-side-is-complete.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/14/my-journey-to-the-dark-side-is-complete.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <published>2020-06-14T20:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/06/07/some-more-dot-emacs-dot-d-evolution.html</id>
+    <id>https://test-blog.davep.dev/2020/06/07/some-more-dot-emacs-dot-d-evolution.html</id>
     <title>Some more ~/.emacs.d evolution</title>
     <updated>2020-06-07T16:48:00+01:00</updated>
     <content type="html">&lt;p&gt;When I started with this version of the blog on Hashnode&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, my plan was to
@@ -278,7 +278,7 @@ course.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2020/06/07/some-more-dot-emacs-dot-d-evolution.html"/>
+    <link href="https://test-blog.davep.dev/2020/06/07/some-more-dot-emacs-dot-d-evolution.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -286,7 +286,7 @@ course.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back
     <published>2020-06-07T16:48:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2020/01/19/dnote-el.html</id>
+    <id>https://test-blog.davep.dev/2020/01/19/dnote-el.html</id>
     <title>dnote.el - A wrapper for the dnote CLI</title>
     <updated>2020-01-19T16:35:00+00:00</updated>
     <content type="html">&lt;p&gt;Late on last year I stumbled on an article about
@@ -335,7 +335,7 @@ for searching, viewing, editing and deleting notes.&lt;/p&gt;
 &lt;p&gt;But, for now, if you've not had a look at dnote, I'd highly recommend having
 a play and seeing if it makes sense for you. And, if it does, and you're an
 Emacs user, perhaps dnote.el will be useful too?&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2020/01/19/dnote-el.html"/>
+    <link href="https://test-blog.davep.dev/2020/01/19/dnote-el.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -343,7 +343,7 @@ Emacs user, perhaps dnote.el will be useful too?&lt;/p&gt;</content>
     <published>2020-01-19T16:35:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/12/14/nuke-buffers-el.html</id>
+    <id>https://test-blog.davep.dev/2019/12/14/nuke-buffers-el.html</id>
     <title>nuke-buffers.el -- Tidy up open buffers in Emacs</title>
     <updated>2019-12-14T13:17:00+00:00</updated>
     <content type="html">&lt;p&gt;Both at work and at home I use Emacs by &lt;a href="https://github.com/davep/longmacs.el" rel="noopener noreferrer" target="_blank"&gt;keeping a copy running all the
@@ -396,7 +396,7 @@ and also avoids &lt;a href="https://github.com/davep/nuke-buffers.el/blob/d01849
 avoid&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I've being using this on a daily basis for around 2.5 years now and it's
 done the job without ever losing me any work.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/12/14/nuke-buffers-el.html"/>
+    <link href="https://test-blog.davep.dev/2019/12/14/nuke-buffers-el.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -404,7 +404,7 @@ done the job without ever losing me any work.&lt;/p&gt;</content>
     <published>2019-12-14T13:17:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/12/01/being-phony-and-lispy-regular-expressions.html</id>
+    <id>https://test-blog.davep.dev/2019/12/01/being-phony-and-lispy-regular-expressions.html</id>
     <title>Being phony, and Lispy regular expressions</title>
     <updated>2019-12-01T16:42:00+00:00</updated>
     <content type="html">&lt;p&gt;While it does seem that they're a little out of fashion these days, in some
@@ -461,7 +461,7 @@ this&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;I mean, even &lt;em&gt;if&lt;/em&gt; the regular expression above can be written in a more
 efficient way (and I imagine it can), as someone working in a Lisp
 environment, I'd much sooner write and work with the &lt;code&gt;rx&lt;/code&gt; version.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/12/01/being-phony-and-lispy-regular-expressions.html"/>
+    <link href="https://test-blog.davep.dev/2019/12/01/being-phony-and-lispy-regular-expressions.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -469,7 +469,7 @@ environment, I'd much sooner write and work with the &lt;code&gt;rx&lt;/code&gt;
     <published>2019-12-01T16:42:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/11/24/emacsconf-2019-videos-are-out.html</id>
+    <id>https://test-blog.davep.dev/2019/11/24/emacsconf-2019-videos-are-out.html</id>
     <title>EmacsConf 2019 videos are out</title>
     <updated>2019-11-24T17:17:00+00:00</updated>
     <content type="html">&lt;p&gt;At the start of this month &lt;a href="/2019/11/02/emacsconf-2019.html"&gt;I spent a very enjoyable Saturday afternoon
@@ -490,13 +490,13 @@ thing), but they're well worth a watch despite this.&lt;/p&gt;
 &lt;p&gt;If you have any sort of interest in Emacs I'd highly recommend dipping into
 the whole collection.&lt;/p&gt;
 &lt;p&gt;I really hope there's going to be a 2020 EmacsConf.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/11/24/emacsconf-2019-videos-are-out.html"/>
+    <link href="https://test-blog.davep.dev/2019/11/24/emacsconf-2019-videos-are-out.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <published>2019-11-24T17:17:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/11/23/visual-evolution-of-emacs-config.html</id>
+    <id>https://test-blog.davep.dev/2019/11/23/visual-evolution-of-emacs-config.html</id>
     <title>Visual evolution of ~/.emacs.d</title>
     <updated>2019-11-23T14:42:00+00:00</updated>
     <content type="html">&lt;p&gt;As detailed in a blog post I wrote &lt;a href="/2016/05/26/starting_fresh_with_gnu_emacs.html"&gt;back in
@@ -517,7 +517,7 @@ scratch. As mentioned above, the start of this &lt;a href="/2016/05/26/starting_
 post&lt;/a&gt;. Another big round of
 changes &lt;a href="/2017/04/01/another_revamp_of_my_emacs_config.html"&gt;happened round a year
 later&lt;/a&gt; -- which included
-the birth of &lt;a href="http://blog.davep.org/delpa/"&gt;delpa&lt;/a&gt; to manage my personal
+the birth of &lt;a href="http://blog.davep.org/delpa/" rel="noopener noreferrer" target="_blank"&gt;delpa&lt;/a&gt; to manage my personal
 packages. A couple or so months later there was &lt;a href="/2017/07/13/more_revamping_of_my_emacs_config.html"&gt;one last big round of
 changes&lt;/a&gt;, mostly killing
 off my enthusiastic embracing of
@@ -538,7 +538,7 @@ Gource, for example). So I got curious. What did it look like as I reworked
 and tweaked and changed and tinkered with my Emacs configuration?&lt;/p&gt;
 &lt;p&gt;This is what it looked like:&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bH4G80aZgsM" rel="noopener noreferrer" target="_blank"&gt;&lt;img alt="Visit YouTube" src="https://img.youtube.com/vi/bH4G80aZgsM/0.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/11/23/visual-evolution-of-emacs-config.html"/>
+    <link href="https://test-blog.davep.dev/2019/11/23/visual-evolution-of-emacs-config.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -546,7 +546,7 @@ and tweaked and changed and tinkered with my Emacs configuration?&lt;/p&gt;
     <published>2019-11-23T14:42:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/11/02/emacsconf-2019.html</id>
+    <id>https://test-blog.davep.dev/2019/11/02/emacsconf-2019.html</id>
     <title>EmacsConf 2019</title>
     <updated>2019-11-02T11:33:00+00:00</updated>
     <content type="html">&lt;p&gt;For anyone who doesn't know, today is the day for &lt;a href="https://emacsconf.org/2019/" rel="noopener noreferrer" target="_blank"&gt;EmacsConf
@@ -559,13 +559,13 @@ couple of related physical gatherings around the world).&lt;/p&gt;
 follow the whole thing from start to finish.&lt;/p&gt;
 &lt;p&gt;If Emacs is your thing, or knowing more about Emacs is your thing, be sure
 to check it out!&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/11/02/emacsconf-2019.html"/>
+    <link href="https://test-blog.davep.dev/2019/11/02/emacsconf-2019.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <published>2019-11-02T11:33:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/10/21/gitweb-el.html</id>
+    <id>https://test-blog.davep.dev/2019/10/21/gitweb-el.html</id>
     <title>gitweb.el -- Quickly visit a repo's forge from Emacs</title>
     <updated>2019-10-21T10:41:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;code&gt;gh.fish&lt;/code&gt;, which &lt;a href="/2019/10/20/fg-fish.html"&gt;I wrote about yesterday&lt;/a&gt;,
@@ -595,14 +595,14 @@ I think this again illustrates how handy Emacs is as a work environment.
 While it's absolutely true that there are other development environments out
 there that offer similar extensibility, Emacs is the one I'm comfortable
 with, and it has a &lt;em&gt;long&lt;/em&gt; history of offering this.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/10/21/gitweb-el.html"/>
+    <link href="https://test-blog.davep.dev/2019/10/21/gitweb-el.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="git"/>
     <published>2019-10-21T10:41:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/10/19/pypath-el.html</id>
+    <id>https://test-blog.davep.dev/2019/10/19/pypath-el.html</id>
     <title>pypath.el -- A little Emacs hack to help with Django</title>
     <updated>2019-10-19T10:35:00+01:00</updated>
     <content type="html">&lt;p&gt;One of the things I really like about coding with Emacs is how I can easily
@@ -655,12 +655,12 @@ my work environment after almost 25 years of on and off use: with very
 little work on my part I can create a couple of commands that work exactly
 how I need them to. While it's great to create &lt;a href="https://melpa.org/" rel="noopener noreferrer" target="_blank"&gt;generally-useful code for
 Emacs that lots of people benefit from&lt;/a&gt;, sometimes the
-real value is that &lt;a href="https://blog.davep.org/delpa/"&gt;you can code up your own particular quirk and just get
+real value is that &lt;a href="https://blog.davep.org/delpa/" rel="noopener noreferrer" target="_blank"&gt;you can code up your own particular quirk and just get
 on with stuff&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To conclude: this post isn't to show off &lt;code&gt;pypath.el&lt;/code&gt;; really this post is to
 sing the praises of Emacs and why it still works so well for me after all
 these years.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/10/19/pypath-el.html"/>
+    <link href="https://test-blog.davep.dev/2019/10/19/pypath-el.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Python"/>
@@ -669,7 +669,7 @@ these years.&lt;/p&gt;</content>
     <published>2019-10-19T10:35:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2017/07/13/more_revamping_of_my_emacs_config.html</id>
+    <id>https://test-blog.davep.dev/2017/07/13/more_revamping_of_my_emacs_config.html</id>
     <title>More revamping of my Emacs config</title>
     <updated>2017-07-13T15:25:29+01:00</updated>
     <content type="html">&lt;p&gt;I've been pretty quiet on here since I last wrote about how I'd done a
@@ -721,7 +721,7 @@ package" approach.&lt;/p&gt;
 "religious issue" for people to have endless disagreements over. I guess,
 over the next couple or so weeks, I'll find out if switching back was a good
 idea.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2017/07/13/more_revamping_of_my_emacs_config.html"/>
+    <link href="https://test-blog.davep.dev/2017/07/13/more_revamping_of_my_emacs_config.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -730,7 +730,7 @@ idea.&lt;/p&gt;</content>
     <published>2017-07-13T15:25:29+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2017/04/01/another_revamp_of_my_emacs_config.html</id>
+    <id>https://test-blog.davep.dev/2017/04/01/another_revamp_of_my_emacs_config.html</id>
     <title>Another revamp of my emacs config</title>
     <updated>2017-04-01T10:02:18+01:00</updated>
     <content type="html">&lt;p&gt;Just under a year ago I decided to
@@ -839,7 +839,7 @@ find that everything was installed and ready to use.&lt;/p&gt;
 it was before and, I think, even easier to maintain. Right now I think I'm
 very close to the ideal emacs config that I wanted to create when I did the
 complete rewrite a year ago.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2017/04/01/another_revamp_of_my_emacs_config.html"/>
+    <link href="https://test-blog.davep.dev/2017/04/01/another_revamp_of_my_emacs_config.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <category term="Lisp"/>
@@ -848,7 +848,7 @@ complete rewrite a year ago.&lt;/p&gt;</content>
     <published>2017-04-01T10:02:18+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2016/05/26/starting_fresh_with_gnu_emacs.html</id>
+    <id>https://test-blog.davep.dev/2016/05/26/starting_fresh_with_gnu_emacs.html</id>
     <title>Starting fresh with GNU emacs</title>
     <updated>2016-05-26T12:28:48+01:00</updated>
     <content type="html">&lt;p&gt;As I've mentioned elsewhere on this blog, over the past few years, my
@@ -968,7 +968,7 @@ but, this time around I'm giving &lt;a href="https://melpa.org/#/hyde" rel="noop
 &lt;a href="https://melpa.org/#/markdown-mode" rel="noopener noreferrer" target="_blank"&gt;markdown-mode&lt;/a&gt; a go. So far
 they're working out pretty well too (albeit hyde was a bit odd to set
 up and isn't 100% making sense to me yet).&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2016/05/26/starting_fresh_with_gnu_emacs.html"/>
+    <link href="https://test-blog.davep.dev/2016/05/26/starting_fresh_with_gnu_emacs.html"/>
     <category term="Emacs"/>
     <category term="Emacs"/>
     <published>2016-05-26T12:28:48+01:00</published>

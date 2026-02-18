@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.877403+00:00</updated>
-  <link href="https://blog.davep.org/feeds/gaming.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.264967+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/gaming.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Gaming" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2024/02/05/back-to-death-stranding.html</id>
+    <id>https://test-blog.davep.dev/2024/02/05/back-to-death-stranding.html</id>
     <title>Back to Death Stranding</title>
     <updated>2024-02-05T07:45:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Death Stranding" src="/attachments/2024/02/05/IMG_4223.JPG#centre" /&gt;&lt;/p&gt;
@@ -60,7 +60,7 @@ will have the full story plus lots more fun and building and exploring in
 it. Hopefully I'll be done just in time for the release of DS2! (and
 &lt;a href="https://www.youtube.com/watch?v=QdBZY2fkU-0" rel="noopener noreferrer" target="_blank"&gt;GTA6&lt;/a&gt;, it's going to be a busy
 year for gaming next year!)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/02/05/back-to-death-stranding.html"/>
+    <link href="https://test-blog.davep.dev/2024/02/05/back-to-death-stranding.html"/>
     <category term="Gaming"/>
     <category term="Death Stranding"/>
     <category term="PS5"/>

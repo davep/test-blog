@@ -2,16 +2,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>davep</title>
-    <link>https://blog.davep.org</link>
+    <link>https://test-blog.davep.dev</link>
     <description>Posts in category "Creative" from davep</description>
-    <atom:link href="https://blog.davep.org/feeds/creative.rss.xml" rel="self"/>
+    <atom:link href="https://test-blog.davep.dev/feeds/creative.rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 17:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:44:20 +0000</lastBuildDate>
     <item>
       <title>I got a YouTube play button!</title>
-      <link>https://blog.davep.org/2023/10/18/i-got-a-youtube-play-button.html</link>
+      <link>https://test-blog.davep.dev/2023/10/18/i-got-a-youtube-play-button.html</link>
       <description>&lt;p&gt;According to YouTube I joined up on 2006-09-04. I don't think that's quite
 correct. I &lt;em&gt;did&lt;/em&gt; have a &lt;a href="https://en.wikipedia.org/wiki/Google_Video" rel="noopener noreferrer" target="_blank"&gt;Google
 Video&lt;/a&gt; account from very early
@@ -44,14 +44,14 @@ sausage rolls, socks, and a bunch of other stuff I've forgotten), and I was
 lucky to claim one of these almost the instant the email turned up.&lt;/p&gt;
 &lt;p&gt;It's very likely the only YouTube play button I'll ever receive. I think it
 will take pride of place on my desk.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/10/18/i-got-a-youtube-play-button.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/10/18/i-got-a-youtube-play-button.html</guid>
       <category>Creative</category>
       <category>YouTube</category>
       <pubDate>Wed, 18 Oct 2023 19:07:00 +0100</pubDate>
     </item>
     <item>
       <title>Seen by davep broke (again)</title>
-      <link>https://blog.davep.org/2023/08/20/seen-by-davep-broke-again.html</link>
+      <link>https://test-blog.davep.dev/2023/08/20/seen-by-davep-broke-again.html</link>
       <description>&lt;p&gt;Almost &lt;a href="/2016/11/15/seen_by_davep_(the_return).html"&gt;seven years ago&lt;/a&gt; I took
 up maintaining an ad-hoc photoblog again. I say again because I'd had one
 once before. I'd kicked that off back in the late 200xs, with my little HTC
@@ -158,7 +158,7 @@ Multiply that lots if you have a blue tick.&amp;#160;&lt;a class="footnote-backr
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/08/20/seen-by-davep-broke-again.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/08/20/seen-by-davep-broke-again.html</guid>
       <category>Creative</category>
       <category>blogging</category>
       <category>photography</category>
@@ -166,7 +166,7 @@ Multiply that lots if you have a blue tick.&amp;#160;&lt;a class="footnote-backr
     </item>
     <item>
       <title>Seen by davep (the return)</title>
-      <link>https://blog.davep.org/2016/11/15/seen_by_davep_(the_return).html</link>
+      <link>https://test-blog.davep.dev/2016/11/15/seen_by_davep_(the_return).html</link>
       <description>&lt;p&gt;A few years back, not long after I got my first smartphone (a HTC Magic), I
 started maintaining a photoblog that was based around photos I took on that
 phone. The blog itself was very important to me as it covered a pretty
@@ -200,7 +200,7 @@ running, watching for any tweet of mine with the #photoblog tag and creating
 a post on the blog from it.&lt;/p&gt;
 &lt;p&gt;As for how often and what the content will be... simple: it'll be when I see
 something that I need to capture.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2016/11/15/seen_by_davep_(the_return).html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2016/11/15/seen_by_davep_(the_return).html</guid>
       <category>Creative</category>
       <category>blogging</category>
       <category>photography</category>

@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.848848+00:00</updated>
-  <link href="https://blog.davep.org/feeds/coding.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.236815+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/coding.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Coding" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2026/02/18/testing.html</id>
+    <id>https://test-blog.davep.dev/2026/02/18/testing.html</id>
     <title>Test</title>
     <updated>2026-02-18T13:34:00+00:00</updated>
     <content type="html">&lt;p&gt;Check this out, it's a test post!&lt;/p&gt;
@@ -42,14 +42,14 @@
 &lt;p&gt;Advises about risks or negative outcomes.&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2026/02/18/testing.html"/>
+    <link href="https://test-blog.davep.dev/2026/02/18/testing.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="blogging"/>
     <published>2026-02-18T13:34:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2026/02/11/oldnews.html</id>
+    <id>https://test-blog.davep.dev/2026/02/11/oldnews.html</id>
     <title>OldNews - A terminal-based client for TheOldReader</title>
     <updated>2026-02-11T17:23:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="OldNews" src="/attachments/2026/02/11/oldnews-social-banner.png" /&gt;&lt;/p&gt;
@@ -146,7 +146,7 @@ perform the installation. For GNU/Linux or macOS or similar:&lt;/p&gt;
 and more. If you need help, or have any ideas, please feel free to &lt;a href="https://github.com/davep/oldnews/issues" rel="noopener noreferrer" target="_blank"&gt;raise an
 issue&lt;/a&gt; or &lt;a href="https://github.com/davep/oldnews/discussions" rel="noopener noreferrer" target="_blank"&gt;start a
 discussion&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2026/02/11/oldnews.html"/>
+    <link href="https://test-blog.davep.dev/2026/02/11/oldnews.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -156,7 +156,7 @@ discussion&lt;/a&gt;.&lt;/p&gt;</content>
     <published>2026-02-11T17:23:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2026/02/04/solidarity-empathy-patience.html</id>
+    <id>https://test-blog.davep.dev/2026/02/04/solidarity-empathy-patience.html</id>
     <title>Solidarity, Empathy, and Patience -- thinking about code reviews</title>
     <updated>2026-02-04T13:50:00+00:00</updated>
     <content type="html">&lt;h2 id="so-i-saw-this-video"&gt;So I saw this video...&lt;/h2&gt;
@@ -306,7 +306,7 @@ post I'll never get round to writing one day.&amp;#160;&lt;a class="footnote-bac
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2026/02/04/solidarity-empathy-patience.html"/>
+    <link href="https://test-blog.davep.dev/2026/02/04/solidarity-empathy-patience.html"/>
     <category term="Coding"/>
     <category term="work"/>
     <category term="review"/>
@@ -315,7 +315,7 @@ post I'll never get round to writing one day.&amp;#160;&lt;a class="footnote-bac
     <published>2026-02-04T13:50:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2026/01/13/ng2nlm.html</id>
+    <id>https://test-blog.davep.dev/2026/01/13/ng2nlm.html</id>
     <title>ng2nlm - Feed NotebookLM a Norton Guide</title>
     <updated>2026-01-13T09:00:00+00:00</updated>
     <content type="html">&lt;p&gt;After having knocked up &lt;a href="/2026/01/10/obs2nlm.html"&gt;obs2nlm the other day&lt;/a&gt; I
@@ -367,7 +367,7 @@ Norton Guide files do tend to be coding-related so it could make sense.&lt;/p&gt
 &lt;p&gt;Anyway, in the very unlikely event that you have a need to turn one or more
 Norton Guide files into sources to throw at NotebookLM or similar tools:
 &lt;a href="https://github.com/davep/ng2nlm" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;ng2nlm&lt;/code&gt;&lt;/a&gt; exists.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2026/01/13/ng2nlm.html"/>
+    <link href="https://test-blog.davep.dev/2026/01/13/ng2nlm.html"/>
     <category term="Coding"/>
     <category term="Norton Guide"/>
     <category term="AI"/>
@@ -376,7 +376,7 @@ Norton Guide files into sources to throw at NotebookLM or similar tools:
     <published>2026-01-13T09:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2026/01/10/obs2nlm.html</id>
+    <id>https://test-blog.davep.dev/2026/01/10/obs2nlm.html</id>
     <title>obs2nlm - Feed NotebookLM an Obsidian Vault</title>
     <updated>2026-01-10T11:18:00+00:00</updated>
     <content type="html">&lt;p&gt;I'm sure I've mentioned a couple of times before that I've become quite the
@@ -428,7 +428,7 @@ NotebookLM makes of each of those; especially the last one.&lt;/p&gt;
 &lt;p&gt;Anyway, if Obsidian is your thing, and if you are dabbling with or fancy
 dabbling with NotebookLM, perhaps
 &lt;a href="https://github.com/davep/obs2nlm" rel="noopener noreferrer" target="_blank"&gt;obs2nlm&lt;/a&gt; will be handy for you.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2026/01/10/obs2nlm.html"/>
+    <link href="https://test-blog.davep.dev/2026/01/10/obs2nlm.html"/>
     <category term="Coding"/>
     <category term="journal"/>
     <category term="Obsidian"/>
@@ -438,7 +438,7 @@ dabbling with NotebookLM, perhaps
     <published>2026-01-10T11:18:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/12/12/norton-guide-collection.html</id>
+    <id>https://test-blog.davep.dev/2025/12/12/norton-guide-collection.html</id>
     <title>A Norton Guide collection</title>
     <updated>2025-12-12T17:00:00+00:00</updated>
     <content type="html">&lt;p&gt;As I've mentioned a &lt;a href="/tag/norton-guide.html"&gt;few times on this blog&lt;/a&gt;, I've
@@ -500,14 +500,14 @@ believe contain public domain information to start with.&amp;#160;&lt;a class="f
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2025/12/12/norton-guide-collection.html"/>
+    <link href="https://test-blog.davep.dev/2025/12/12/norton-guide-collection.html"/>
     <category term="Coding"/>
     <category term="Norton Guide"/>
     <category term="history"/>
     <published>2025-12-12T17:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/07/19/dhv.html</id>
+    <id>https://test-blog.davep.dev/2025/07/19/dhv.html</id>
     <title>DHV</title>
     <updated>2025-07-19T15:00:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;a href="https://dhv.davep.dev/" rel="noopener noreferrer" target="_blank"&gt;&lt;img alt="DHV" src="/attachments/2025/07/19/dhv-social-banner.png" /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -565,7 +565,7 @@ tool to let you check that assertion.&amp;#160;&lt;a class="footnote-backref" hr
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2025/07/19/dhv.html"/>
+    <link href="https://test-blog.davep.dev/2025/07/19/dhv.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -575,7 +575,7 @@ tool to let you check that assertion.&amp;#160;&lt;a class="footnote-backref" hr
     <published>2025-07-19T15:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/04/20/complexitty.html</id>
+    <id>https://test-blog.davep.dev/2025/04/20/complexitty.html</id>
     <title>Complexitty</title>
     <updated>2025-04-20T09:30:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;a href="https://complexitty.davep.dev/" rel="noopener noreferrer" target="_blank"&gt;&lt;img alt="Complexitty" src="/attachments/2025/04/20/complexitty-social-banner.png" /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -587,7 +587,7 @@ exercises. I've written versions in many languages, and messed with plots in
 some different environments, as varied as &lt;a href="https://www.youtube.com/watch?v=18ytRZrHL34" rel="noopener noreferrer" target="_blank"&gt;in VR on the
 web&lt;/a&gt; to &lt;a href="https://www.redbubble.com/i/t-shirt/Self-Documenting-Mandelbrot-by-davepearson/1341910.0S66D" rel="noopener noreferrer" target="_blank"&gt;wearable
 items&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Back in the early days of &lt;a href="https://blog.davep.org/2024/03/28/goodbye-textualize.html"&gt;my involvement with
+&lt;p&gt;Back in the early days of &lt;a href="https://blog.davep.org/2024/03/28/goodbye-textualize.html" rel="noopener noreferrer" target="_blank"&gt;my involvement with
 Textualize&lt;/a&gt; I
 &lt;a href="https://github.com/davep/trMandelbrot" rel="noopener noreferrer" target="_blank"&gt;wrote a deliberately worst-approach
 version&lt;/a&gt; using that framework. The
@@ -635,7 +635,7 @@ PyPI&lt;/a&gt;. If you have an environment that has
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;brew&lt;span class="w"&gt; &lt;/span&gt;tap&lt;span class="w"&gt; &lt;/span&gt;davep/homebrew
 brew&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;complexitty
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2025/04/20/complexitty.html"/>
+    <link href="https://test-blog.davep.dev/2025/04/20/complexitty.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -644,7 +644,7 @@ brew&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&
     <published>2025-04-20T09:30:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/03/24/ng2web.html</id>
+    <id>https://test-blog.davep.dev/2025/03/24/ng2web.html</id>
     <title>ng2web v1.0.0</title>
     <updated>2025-03-24T14:17:00+00:00</updated>
     <content type="html">&lt;p&gt;It pretty much all started with this:&lt;/p&gt;
@@ -669,7 +669,7 @@ so:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="https://github.com/davep/ng2html/blob/master/ng2html.c" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;ng2html&lt;/code&gt;&lt;/a&gt; was born.&lt;/p&gt;
 &lt;p&gt;Fast forward around a quarter of a century and I decided it would be fun to
-write &lt;a href="https://blog.davep.org/ngdb.py/"&gt;a library for Python that reads Norton Guide
+write &lt;a href="https://blog.davep.org/ngdb.py/" rel="noopener noreferrer" target="_blank"&gt;a library for Python that reads Norton Guide
 files&lt;/a&gt;, and a tool called &lt;code&gt;ng2web&lt;/code&gt; was the
 first test I wrote of it, designed as a more flexible replacement for
 &lt;code&gt;ng2html&lt;/code&gt;. I've tweaked and tinkered with the tool since I first created it,
@@ -677,7 +677,7 @@ but never actually "finished" it.&lt;/p&gt;
 &lt;p&gt;That's changed today. I've just released v1.0.0 of &lt;code&gt;ng2web&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="A page generated with ng2web" src="/attachments/2025/03/24/ng2web.png" /&gt;&lt;/p&gt;
 &lt;p&gt;If turning one or more Norton Guide files into static websites seems like
-the sort of thing you want to be doing, &lt;a href="https://blog.davep.org/ng2web/"&gt;take a look at the
+the sort of thing you want to be doing, &lt;a href="https://blog.davep.org/ng2web/" rel="noopener noreferrer" target="_blank"&gt;take a look at the
 documentation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;ng2web&lt;/code&gt; is licensed GPL-3.0 and available &lt;a href="https://github.com/davep/ng2web" rel="noopener noreferrer" target="_blank"&gt;via
 GitHub&lt;/a&gt; and also &lt;a href="https://pypi.org/project/ng2web/" rel="noopener noreferrer" target="_blank"&gt;via
@@ -691,14 +691,14 @@ PyPi&lt;/a&gt;. If you have an environment that has
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;$&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;tap&lt;span class="w"&gt; &lt;/span&gt;davep/homebrew
 $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;ng2web
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2025/03/24/ng2web.html"/>
+    <link href="https://test-blog.davep.dev/2025/03/24/ng2web.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="Norton Guide"/>
     <published>2025-03-24T14:17:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/03/22/aging-0-3-0.html</id>
+    <id>https://test-blog.davep.dev/2025/03/22/aging-0-3-0.html</id>
     <title>AgiNG v0.3.0</title>
     <updated>2025-03-22T09:30:00+00:00</updated>
     <content type="html">&lt;p&gt;I've &lt;a href="https://github.com/davep/aging/releases/tag/v0.3.0" rel="noopener noreferrer" target="_blank"&gt;just released AgiNG
@@ -745,7 +745,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;The &lt;a href="https://github.com/davep/aging" rel="noopener noreferrer" target="_blank"&gt;source is available on GitHub&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/03/22/aging-0-3-0.html"/>
+    <link href="https://test-blog.davep.dev/2025/03/22/aging-0-3-0.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -754,7 +754,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
     <published>2025-03-22T09:30:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/03/12/aging.html</id>
+    <id>https://test-blog.davep.dev/2025/03/12/aging.html</id>
     <title>AgiNG</title>
     <updated>2025-03-12T08:00:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="AgiNG" src="/attachments/2025/03/12/aging-social-banner.png" /&gt;&lt;/p&gt;
@@ -779,7 +779,7 @@ Pascal, JavaScript and Emacs Lisp.&lt;/p&gt;
 &lt;p&gt;So when I first saw Textual mentioned in passing on Twitter a few years
 back, way back in the 0.1 days, I thought that could be the thing that would
 push me over the edge. In anticipation of that, back in 2021, I initially
-developed &lt;a href="https://blog.davep.org/ngdb.py/"&gt;&lt;code&gt;ngdb.py&lt;/code&gt;&lt;/a&gt;. This is a library
+developed &lt;a href="https://blog.davep.org/ngdb.py/" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;ngdb.py&lt;/code&gt;&lt;/a&gt;. This is a library
 that provides the core Norton Guide reading code for Python applications and
 could form the basis for other tools.&lt;/p&gt;
 &lt;p&gt;As a test for this I then wrote &lt;a href="https://github.com/davep/ng2web" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;ng2web&lt;/code&gt;&lt;/a&gt;
@@ -873,7 +873,7 @@ Norton's nationality.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" ti
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2025/03/12/aging.html"/>
+    <link href="https://test-blog.davep.dev/2025/03/12/aging.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -882,7 +882,7 @@ Norton's nationality.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" ti
     <published>2025-03-12T08:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/02/28/mkdocs-gh-pages-redux.html</id>
+    <id>https://test-blog.davep.dev/2025/02/28/mkdocs-gh-pages-redux.html</id>
     <title>MkDocs/mkdocstrings 404 CSS TIL update</title>
     <updated>2025-02-28T22:23:00+00:00</updated>
     <content type="html">&lt;p&gt;Following on from &lt;a href="/2025/02/28/documenting-fspicker.html"&gt;my post this
@@ -912,7 +912,7 @@ noticed this when I was first experimenting. O_o&lt;/p&gt;
 build and publish the docs from
 &lt;code&gt;textual-fspicker&lt;/code&gt;&lt;/a&gt;,
 and I'll apply this to other projects too.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/02/28/mkdocs-gh-pages-redux.html"/>
+    <link href="https://test-blog.davep.dev/2025/02/28/mkdocs-gh-pages-redux.html"/>
     <category term="Coding"/>
     <category term="documentation"/>
     <category term="GitHub"/>
@@ -922,7 +922,7 @@ and I'll apply this to other projects too.&lt;/p&gt;</content>
     <published>2025-02-28T22:23:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/02/28/documenting-fspicker.html</id>
+    <id>https://test-blog.davep.dev/2025/02/28/documenting-fspicker.html</id>
     <title>Documenting textual-fspicker (plus a TIL)</title>
     <updated>2025-02-28T11:45:00+00:00</updated>
     <content type="html">&lt;p&gt;I've just made a wee update to
@@ -942,12 +942,12 @@ wanted to improve at some point.&lt;/p&gt;
 &lt;p&gt;Given I'm still on a bit of a coding spree in my spare time, I finally
 decided to get round to using the amazing
 &lt;a href="https://mkdocstrings.github.io" rel="noopener noreferrer" target="_blank"&gt;mkdocstrings&lt;/a&gt;, in conjunction with
-&lt;a href="https://www.mkdocs.org" rel="noopener noreferrer" target="_blank"&gt;mkdocs&lt;/a&gt;, to &lt;a href="https://blog.davep.org/textual-fspicker/"&gt;get some better documentation up an
+&lt;a href="https://www.mkdocs.org" rel="noopener noreferrer" target="_blank"&gt;mkdocs&lt;/a&gt;, to &lt;a href="https://blog.davep.org/textual-fspicker/" rel="noopener noreferrer" target="_blank"&gt;get some better documentation up an
 running&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The approach I decided to take with the documentation was to &lt;a href="https://blog.davep.org/textual-fspicker/using/"&gt;have a page
+&lt;p&gt;The approach I decided to take with the documentation was to &lt;a href="https://blog.davep.org/textual-fspicker/using/" rel="noopener noreferrer" target="_blank"&gt;have a page
 that gave some general information on how to use the
 library&lt;/a&gt; and then also
-&lt;a href="https://blog.davep.org/textual-fspicker/library-contents/base_dialog/"&gt;generate low-level documentation for the all the useful content of the
+&lt;a href="https://blog.davep.org/textual-fspicker/library-contents/base_dialog/" rel="noopener noreferrer" target="_blank"&gt;generate low-level documentation for the all the useful content of the
 library from the
 docstrings&lt;/a&gt;.
 While latter isn't really useful to anyone wanting to use the library in
@@ -1035,7 +1035,7 @@ and added this to &lt;code&gt;mkdocs.yml&lt;/code&gt;:&lt;/p&gt;
 &lt;p&gt;And now I've worked out a simple workflow for using &lt;code&gt;mkdocs&lt;/code&gt;/&lt;code&gt;mkdocstrings&lt;/code&gt;
 for my own Python projects, in conjunction with GitHub Pages, I guess I'll
 start to sprinkle it over other projects too.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/02/28/documenting-fspicker.html"/>
+    <link href="https://test-blog.davep.dev/2025/02/28/documenting-fspicker.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="textual"/>
@@ -1047,7 +1047,7 @@ start to sprinkle it over other projects too.&lt;/p&gt;</content>
     <published>2025-02-28T11:45:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/02/14/hike.html</id>
+    <id>https://test-blog.davep.dev/2025/02/14/hike.html</id>
     <title>Hike</title>
     <updated>2025-02-14T09:22:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Hike" src="/attachments/2025/02/14/hike-social-banner.png" /&gt;&lt;/p&gt;
@@ -1096,7 +1096,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 
 &lt;p&gt;Expect to see more updates in the near future; this is very much an ongoing
 tinker project.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/02/14/hike.html"/>
+    <link href="https://test-blog.davep.dev/2025/02/14/hike.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -1104,7 +1104,7 @@ tinker project.&lt;/p&gt;</content>
     <published>2025-02-14T09:22:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/01/25/peplum.html</id>
+    <id>https://test-blog.davep.dev/2025/01/25/peplum.html</id>
     <title>Peplum</title>
     <updated>2025-01-25T14:21:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Peplum" src="/attachments/2025/01/25/peplum-social-banner.png" /&gt;&lt;/p&gt;
@@ -1183,7 +1183,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 
 &lt;p&gt;I'm going to be making good use of this and working on it more; I hope it's
 useful to someone else. :-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/01/25/peplum.html"/>
+    <link href="https://test-blog.davep.dev/2025/01/25/peplum.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -1191,7 +1191,7 @@ useful to someone else. :-)&lt;/p&gt;</content>
     <published>2025-01-25T14:21:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2025/01/03/braindrop.html</id>
+    <id>https://test-blog.davep.dev/2025/01/03/braindrop.html</id>
     <title>Braindrop</title>
     <updated>2025-01-03T16:24:00+00:00</updated>
     <content type="html">&lt;p&gt;&lt;img alt="Braindrop" src="/attachments/2025/01/03/braindrop-social-banner.png" /&gt;&lt;/p&gt;
@@ -1275,7 +1275,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;I hope this is useful to someone else. :-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2025/01/03/braindrop.html"/>
+    <link href="https://test-blog.davep.dev/2025/01/03/braindrop.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -1283,7 +1283,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
     <published>2025-01-03T16:24:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2024/11/04/markdown-all-the-things.html</id>
+    <id>https://test-blog.davep.dev/2024/11/04/markdown-all-the-things.html</id>
     <title>Markdown all the things</title>
     <updated>2024-11-04T21:00:00+00:00</updated>
     <content type="html">&lt;p&gt;Recently I've been on a bit of a &lt;em&gt;"turn stuff into Markdown files and slap
@@ -1374,7 +1374,7 @@ I did (I do think that over 50,000 individual files for an Obsidian Vault is
 a bit silly, if I'm honest).&lt;/p&gt;
 &lt;p&gt;Meanwhile... I might need to look at other applications and think about how
 I can turn the data into useful Markdown collections!&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/11/04/markdown-all-the-things.html"/>
+    <link href="https://test-blog.davep.dev/2024/11/04/markdown-all-the-things.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="Twitter"/>
@@ -1383,7 +1383,7 @@ I can turn the data into useful Markdown collections!&lt;/p&gt;</content>
     <published>2024-11-04T21:00:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2024/08/18/paindrop.html</id>
+    <id>https://test-blog.davep.dev/2024/08/18/paindrop.html</id>
     <title>Paindrop v1.0.0</title>
     <updated>2024-08-18T10:57:00+01:00</updated>
     <content type="html">&lt;p&gt;I was quite late discovering Pinboard; by the looks of things I created my
@@ -1483,7 +1483,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 &lt;p&gt;PS: As for the name... originally it was &lt;code&gt;pin2rain&lt;/code&gt; but then &lt;a href="https://fosstodon.org/@darrenburns/112978377299333401" rel="noopener noreferrer" target="_blank"&gt;Darren Burns
 pointed out the obvious and it had to
 happen&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/08/18/paindrop.html"/>
+    <link href="https://test-blog.davep.dev/2024/08/18/paindrop.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="pinboard"/>
@@ -1491,7 +1491,7 @@ happen&lt;/a&gt;.&lt;/p&gt;</content>
     <published>2024-08-18T10:57:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2024/05/14/tinboard-0-14-0.html</id>
+    <id>https://test-blog.davep.dev/2024/05/14/tinboard-0-14-0.html</id>
     <title>Tinboard v0.14.0</title>
     <updated>2024-05-14T08:02:00+01:00</updated>
     <content type="html">&lt;p&gt;I've just released &lt;a href="https://github.com/davep/tinboard" rel="noopener noreferrer" target="_blank"&gt;Tinboard&lt;/a&gt; v0.14.0.
@@ -1511,7 +1511,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;The &lt;a href="https://github.com/davep/tinboard" rel="noopener noreferrer" target="_blank"&gt;source is available on GitHub&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/05/14/tinboard-0-14-0.html"/>
+    <link href="https://test-blog.davep.dev/2024/05/14/tinboard-0-14-0.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>
@@ -1520,7 +1520,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
     <published>2024-05-14T08:02:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2024/04/18/tinboard-0-12-0.html</id>
+    <id>https://test-blog.davep.dev/2024/04/18/tinboard-0-12-0.html</id>
     <title>Tinboard v0.12.0</title>
     <updated>2024-04-18T16:46:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;a href="https://github.com/davep/tinboard" rel="noopener noreferrer" target="_blank"&gt;Tinboard&lt;/a&gt; has turned into a tool I use
@@ -1557,7 +1557,7 @@ $&lt;span class="w"&gt; &lt;/span&gt;brew&lt;span class="w"&gt; &lt;/span&gt;ins
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;The &lt;a href="https://github.com/davep/tinboard" rel="noopener noreferrer" target="_blank"&gt;source is available on GitHub&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/04/18/tinboard-0-12-0.html"/>
+    <link href="https://test-blog.davep.dev/2024/04/18/tinboard-0-12-0.html"/>
     <category term="Coding"/>
     <category term="Python"/>
     <category term="terminal"/>

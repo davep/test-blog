@@ -2,16 +2,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>davep</title>
-    <link>https://blog.davep.org</link>
+    <link>https://test-blog.davep.dev</link>
     <description>Posts in category "Python" from davep</description>
-    <atom:link href="https://blog.davep.org/feeds/python.rss.xml" rel="self"/>
+    <atom:link href="https://test-blog.davep.dev/feeds/python.rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 17:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:44:20 +0000</lastBuildDate>
     <item>
       <title>textual-dominfo</title>
-      <link>https://blog.davep.org/2024/01/15/textual-dominfo.html</link>
+      <link>https://test-blog.davep.dev/2024/01/15/textual-dominfo.html</link>
       <description>&lt;p&gt;Last week I was wrestling with some Textual code, trying to get something to
 lay out on the screen "just so". On the whole this isn't too tricky at all,
 and for those times where it might feel tricky &lt;a href="https://textual.textualize.io/how-to/design-a-layout/" rel="noopener noreferrer" target="_blank"&gt;there's some advice
@@ -97,7 +97,7 @@ stuff.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back 
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2024/01/15/textual-dominfo.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2024/01/15/textual-dominfo.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -107,7 +107,7 @@ stuff.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back 
     </item>
     <item>
       <title>textual-countdown</title>
-      <link>https://blog.davep.org/2024/01/11/textual-countdown.html</link>
+      <link>https://test-blog.davep.dev/2024/01/11/textual-countdown.html</link>
       <description>&lt;p&gt;The idea for this one popped into my head while on the bus back from Textual
 Towers this evening. So after dinner and some nonsense on TV I had to visit
 my desk and do a quick hack.&lt;/p&gt;
@@ -129,7 +129,7 @@ question in a quiz; something like that.&lt;/p&gt;
 applications, &lt;a href="https://pypi.org/project/textual-countdown/" rel="noopener noreferrer" target="_blank"&gt;it's now available from
 PyPi&lt;/a&gt; and, of course, the
 source is over &lt;a href="https://github.com/davep/textual-countdown" rel="noopener noreferrer" target="_blank"&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2024/01/11/textual-countdown.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2024/01/11/textual-countdown.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -139,7 +139,7 @@ source is over &lt;a href="https://github.com/davep/textual-countdown" rel="noop
     </item>
     <item>
       <title>astare v0.8.0 released</title>
-      <link>https://blog.davep.org/2023/10/10/astare-0-8-0.html</link>
+      <link>https://test-blog.davep.dev/2023/10/10/astare-0-8-0.html</link>
       <description>&lt;p&gt;&lt;a href="https://github.com/davep/textual-astview" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;textual-astare&lt;/code&gt;&lt;/a&gt; is another
 Textual-based Python project that I've developed in the last year and I
 don't believe I've mentioned on this blog. Simply put, it's a took for
@@ -165,7 +165,7 @@ there and can be installed, with the main changes being:&lt;/p&gt;
 earliest apps built with Textual and my approach to writing Textual apps has
 changed a fair bit this year, and Textual itself has grown and improved in
 that time -- but it's still working well for now.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/10/10/astare-0-8-0.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/10/10/astare-0-8-0.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -175,7 +175,7 @@ that time -- but it's still working well for now.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mandelbrot Commands</title>
-      <link>https://blog.davep.org/2023/09/29/mandelbrot-commands.html</link>
+      <link>https://test-blog.davep.dev/2023/09/29/mandelbrot-commands.html</link>
       <description>&lt;p&gt;I don't think I've mentioned it before on this blog, but some time back I
 decided it would be fun to use &lt;a href="https://textual.textualize.io/" rel="noopener noreferrer" target="_blank"&gt;Textual&lt;/a&gt; to
 write a Mandelbrot explorer (simple Mandelbrot explorers have been another
@@ -211,7 +211,7 @@ if done in a way that's reminiscent of how commands could be defined in
 remember &lt;a href="https://github.com/davep/org-davep-cldict/" rel="noopener noreferrer" target="_blank"&gt;really liking&lt;/a&gt; how you
 could create self-documenting and self-completing commands in that).&lt;/p&gt;
 &lt;p&gt;All in good time...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/09/29/mandelbrot-commands.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/09/29/mandelbrot-commands.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -222,7 +222,7 @@ could create self-documenting and self-completing commands in that).&lt;/p&gt;
     </item>
     <item>
       <title>Textual Query Sandbox Update</title>
-      <link>https://blog.davep.org/2023/09/10/textual-query-sandbox-update.html</link>
+      <link>https://test-blog.davep.dev/2023/09/10/textual-query-sandbox-update.html</link>
       <description>&lt;p&gt;Since &lt;a href="/2023/09/01/textual-query-sandbox.html"&gt;quickly hacking together &lt;code&gt;textual-query-sandbox&lt;/code&gt; a few days
 back&lt;/a&gt;, I've made a bunch of small
 changes here and there. While most have been cosmetic and playing with some
@@ -269,7 +269,7 @@ tend to have something much smaller in terms of cell with/height.&amp;#160;&lt;a
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/09/10/textual-query-sandbox-update.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/09/10/textual-query-sandbox-update.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -279,7 +279,7 @@ tend to have something much smaller in terms of cell with/height.&amp;#160;&lt;a
     </item>
     <item>
       <title>Textual Query Sandbox</title>
-      <link>https://blog.davep.org/2023/09/01/textual-query-sandbox.html</link>
+      <link>https://test-blog.davep.dev/2023/09/01/textual-query-sandbox.html</link>
       <description>&lt;p&gt;Sometimes I can have an idea for a Textual widget, library or application on
 my ideas list for weeks, months even, before I get around to it -- mostly
 just due to not having the clear time to make a run at getting it going --
@@ -337,7 +337,7 @@ that on-the-fly test queries can be made.&lt;/p&gt;
 &lt;p&gt;For now though, it's started, it's under way, and I think the current
 version probably covers 90% of the use cases for something like this; making
 for a really quick and easy tool to double-check how to query something.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/09/01/textual-query-sandbox.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/09/01/textual-query-sandbox.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -347,7 +347,7 @@ for a really quick and easy tool to double-check how to query something.&lt;/p&g
     </item>
     <item>
       <title>Unbored v0.6.0</title>
-      <link>https://blog.davep.org/2023/08/13/unbored-0-6-0.html</link>
+      <link>https://test-blog.davep.dev/2023/08/13/unbored-0-6-0.html</link>
       <description>&lt;p&gt;&lt;a href="/2022/12/01/new-things-on-pypi.html"&gt;Late on last year&lt;/a&gt; I wrote about a
 bunch of new things that I'd added to PyPi, things mostly kicked off by an
 early &lt;a href="https://textual.textualize.io/blog/2022/11/26/on-dog-food-the-original-metaverse-and-not-being-bored/" rel="noopener noreferrer" target="_blank"&gt;dog-fooding session we had at textual
@@ -381,7 +381,7 @@ dependency for your applications, and upgrade in a controlled and tested
 way; for this though it's less crucial and is a good test of the state of
 the ecosystem, and on the remote chance that anyone is using it, it'll be
 helpful to me if it &lt;em&gt;does&lt;/em&gt; break and they yell.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/08/13/unbored-0-6-0.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/08/13/unbored-0-6-0.html</guid>
       <category>Python</category>
       <category>PyPi</category>
       <category>Python</category>
@@ -391,7 +391,7 @@ helpful to me if it &lt;em&gt;does&lt;/em&gt; break and they yell.&lt;/p&gt;</de
     </item>
     <item>
       <title>textual-canvas v0.2.0</title>
-      <link>https://blog.davep.org/2023/07/16/textual-canvas-0-2-0.html</link>
+      <link>https://test-blog.davep.dev/2023/07/16/textual-canvas-0-2-0.html</link>
       <description>&lt;p&gt;&lt;img alt="Demo of textual-canvas" src="/attachments/2023/07/16/textual-canvas.png#centre" /&gt;&lt;/p&gt;
 &lt;p&gt;Given that for a good chunk of this year I've been a bit lax about writing
 here, there's a couple or so coding projects I've not written about (well,
@@ -406,7 +406,7 @@ update&lt;/a&gt; after
 it was &lt;a href="https://github.com/davep/textual-canvas/discussions/1" rel="noopener noreferrer" target="_blank"&gt;requested that I add a &lt;code&gt;clear&lt;/code&gt; method to the &lt;code&gt;Canvas&lt;/code&gt;
 widget&lt;/a&gt;; a request
 that makes perfect sense.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/16/textual-canvas-0-2-0.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/16/textual-canvas-0-2-0.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>Textual</category>
@@ -416,7 +416,7 @@ that makes perfect sense.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OIDIA</title>
-      <link>https://blog.davep.org/2022/12/16/oidia.html</link>
+      <link>https://test-blog.davep.dev/2022/12/16/oidia.html</link>
       <description>&lt;p&gt;Another little thing that's up on PyPi now, which is the final bit of
 fallout from &lt;a href="/2022/12/01/new-things-on-pypi.html"&gt;the Textual dogfooding
 sessions&lt;/a&gt;, is a little project I'm
@@ -535,7 +535,7 @@ PyPi&lt;/a&gt;, which means it can be installed with
 &lt;code&gt;pip&lt;/code&gt; or the ever-handy &lt;code&gt;pipx&lt;/code&gt;:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;$&lt;span class="w"&gt; &lt;/span&gt;pipx&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;oidia
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2022/12/16/oidia.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2022/12/16/oidia.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>coding</category>
@@ -545,7 +545,7 @@ PyPi&lt;/a&gt;, which means it can be installed with
     </item>
     <item>
       <title>New Things On PyPi</title>
-      <link>https://blog.davep.org/2022/12/01/new-things-on-pypi.html</link>
+      <link>https://test-blog.davep.dev/2022/12/01/new-things-on-pypi.html</link>
       <description>&lt;h1 id="an-update"&gt;An update&lt;/h1&gt;
 &lt;p&gt;So, it's fast approaching 2 months now &lt;a href="/2022/10/05/on-to-something-new-redux.html"&gt;since I started the new
 thing&lt;/a&gt; and it's been a busy
@@ -676,7 +676,7 @@ helpful in that it's help me learn more about the framework and also figure
 out my own approach to working with it. Each thing I've built so far has
 been a small step in evolution on from what I did in the previous thing. I
 doubt I've arrived at a plateau of understanding just yet.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2022/12/01/new-things-on-pypi.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2022/12/01/new-things-on-pypi.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>coding</category>
@@ -686,7 +686,7 @@ doubt I've arrived at a plateau of understanding just yet.&lt;/p&gt;</descriptio
     </item>
     <item>
       <title>Python and macOS</title>
-      <link>https://blog.davep.org/2022/11/05/python-and-macos.html</link>
+      <link>https://test-blog.davep.dev/2022/11/05/python-and-macos.html</link>
       <description>&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;On Twitter, a few weeks back, &lt;a href="https://twitter.com/itsBexli/status/1577332548933500928" rel="noopener noreferrer" target="_blank"&gt;@itsBexli asked me how I go about setting up
 Python for development on
@@ -838,7 +838,7 @@ own doing).&lt;/p&gt;
 &lt;p&gt;As I said at the start: there are, of course, other approaches to this, but
 this is mine and works well for me. Do feel free to comment with your own,
 I'm always happy to learn about new ways!&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2022/11/05/python-and-macos.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2022/11/05/python-and-macos.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>macOS</category>
@@ -847,7 +847,7 @@ I'm always happy to learn about new ways!&lt;/p&gt;</description>
     </item>
     <item>
       <title>The PEP 8 hill I will die on</title>
-      <link>https://blog.davep.org/2020/08/23/the-pep-8-hill-i-will-die-on.html</link>
+      <link>https://test-blog.davep.dev/2020/08/23/the-pep-8-hill-i-will-die-on.html</link>
       <description>&lt;p&gt;I first learnt Python back in the mid-to-late 90s, used it in place of Perl
 once I was comfortable with it, and then we sort of drifted apart when I
 first met Ruby. It's only in the last couple of years that I've got back
@@ -911,14 +911,14 @@ was a bit of a learning curve and epic battle over a couple of days, and one
 that had me first encounter
 &lt;a href="https://pypi.org/project/pycodestyle/" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;pycodestyle&lt;/code&gt;&lt;/a&gt;. I may still tell the
 tale...&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/08/23/the-pep-8-hill-i-will-die-on.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/08/23/the-pep-8-hill-i-will-die-on.html</guid>
       <category>Python</category>
       <category>Python</category>
       <pubDate>Sun, 23 Aug 2020 16:54:00 +0100</pubDate>
     </item>
     <item>
       <title>git2gantt -- Simple tool to visualise coding runs</title>
-      <link>https://blog.davep.org/2019/12/08/git2gantt.html</link>
+      <link>https://test-blog.davep.dev/2019/12/08/git2gantt.html</link>
       <description>&lt;p&gt;At the start of this year, as part of a much bigger process to review the
 work that had taken place over the previous 12 months, I was asked (at work)
 to provide some information about how much time I'd spent on various
@@ -981,7 +981,7 @@ approach and use something else entirely).&lt;/p&gt;
 &lt;p&gt;Meanwhile though, if you're looking for something quick and dirty that will
 help you visualise what you've been working on and when for a good period of
 time... perhaps this will help.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2019/12/08/git2gantt.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2019/12/08/git2gantt.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>documentation</category>
@@ -989,7 +989,7 @@ time... perhaps this will help.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Going on a journey</title>
-      <link>https://blog.davep.org/2019/11/10/going-on-a-journey.html</link>
+      <link>https://test-blog.davep.dev/2019/11/10/going-on-a-journey.html</link>
       <description>&lt;p&gt;It's hardly a revelation to say that learning a new programming language, or
 even learning software development at all, is even more difficult if you
 don't have an actual problem to solve. I know I'm not alone in having pet
@@ -1063,14 +1063,14 @@ fun of it.&lt;/p&gt;
 &lt;p&gt;I think that's what I like about this little problem. It's a good way to do
 a bit of programming exercise; it's like the perfect way to do the
 programming equivalent of going for a short run.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2019/11/10/going-on-a-journey.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2019/11/10/going-on-a-journey.html</guid>
       <category>Python</category>
       <category>Python</category>
       <pubDate>Sun, 10 Nov 2019 14:32:00 +0000</pubDate>
     </item>
     <item>
       <title>My Pylint shame</title>
-      <link>https://blog.davep.org/2019/11/04/my-pylint-shame.html</link>
+      <link>https://test-blog.davep.dev/2019/11/04/my-pylint-shame.html</link>
       <description>&lt;p&gt;I first got into Python in the mid-to-late 1990s. It's so far back that I
 think the copy of &lt;a href="https://www.python.org/doc/essays/foreword/" rel="noopener noreferrer" target="_blank"&gt;Programming
 Python&lt;/a&gt; that I have (sadly in
@@ -1173,7 +1173,7 @@ sorting the numbers based on how a human would read the result (&lt;code&gt;-hr&
 &lt;p&gt;It's short, sweet and hacky, but does the job quite nicely. From now on, any
 time I get curious about which disables I'm leaning on too much, I can use
 this to take stock.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2019/11/04/my-pylint-shame.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2019/11/04/my-pylint-shame.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>fish</category>
@@ -1181,7 +1181,7 @@ this to take stock.&lt;/p&gt;</description>
     </item>
     <item>
       <title>pydscheck -- A quick hack that keeps slowly growing</title>
-      <link>https://blog.davep.org/2019/10/26/pydscheck.html</link>
+      <link>https://test-blog.davep.dev/2019/10/26/pydscheck.html</link>
       <description>&lt;p&gt;Something I always try to do when I'm coding is be consistent. I feel this
 is important. While people's coding standards may differ, I think different
 approaches are easier to handle if someone has been consistent with their
@@ -1262,7 +1262,7 @@ things that would be handy would be to allow some form of customisation of
 how it works. I'm sure there's other fun things I can do with it too.&lt;/p&gt;
 &lt;p&gt;That's part of the fun of having a pet project: you can tinker when you like
 and also get benefits from it as you use it.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2019/10/26/pydscheck.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2019/10/26/pydscheck.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>documentation</category>
@@ -1270,7 +1270,7 @@ and also get benefits from it as you use it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>A little speed issue with openpyxl</title>
-      <link>https://blog.davep.org/2018/06/02/a_little_speed_issue_with_openpyxl.html</link>
+      <link>https://test-blog.davep.dev/2018/06/02/a_little_speed_issue_with_openpyxl.html</link>
       <description>&lt;p&gt;It's been very quiet on the blogging front, I'm afraid, mostly for &lt;a href="/2017/12/12/on_to_something_new.html"&gt;the
 reasons I wrote about back in December last
 year&lt;/a&gt;. In that time I've been really
@@ -1351,7 +1351,7 @@ was this wasn't exactly easy to find, I thought I'd write it all down too
 and &lt;a href="https://github.com/davep/openpyxl-speed-issue" rel="noopener noreferrer" target="_blank"&gt;create a repository of some test code to illustrate the
 issue&lt;/a&gt;. Hopefully someone
 else will benefit from this in the future.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2018/06/02/a_little_speed_issue_with_openpyxl.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2018/06/02/a_little_speed_issue_with_openpyxl.html</guid>
       <category>Python</category>
       <category>Python</category>
       <category>openpyxl</category>

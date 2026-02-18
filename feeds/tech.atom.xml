@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.873069+00:00</updated>
-  <link href="https://blog.davep.org/feeds/tech.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.258557+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/tech.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Tech" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2024/04/17/macos-desktop-widget-switching.html</id>
+    <id>https://test-blog.davep.dev/2024/04/17/macos-desktop-widget-switching.html</id>
     <title>macOS desktop widget switching</title>
     <updated>2024-04-17T09:26:00+01:00</updated>
     <content type="html">&lt;p&gt;When &lt;a href="https://support.apple.com/en-gb/108996" rel="noopener noreferrer" target="_blank"&gt;desktop widgets&lt;/a&gt; first turned
@@ -46,7 +46,7 @@ abbr -g smwidon &amp;quot;defaults write com.apple.WindowManager StageManagerHid
 dabbled with it for a wee while, found it vaguely handy in a couple of
 situations, but it doesn't seem to have stuck as part of my workflow or work
 environment.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2024/04/17/macos-desktop-widget-switching.html"/>
+    <link href="https://test-blog.davep.dev/2024/04/17/macos-desktop-widget-switching.html"/>
     <category term="Tech"/>
     <category term="macOS"/>
     <category term="fish"/>
@@ -55,7 +55,7 @@ environment.&lt;/p&gt;</content>
     <published>2024-04-17T09:26:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/12/14/Steam-Deck.html</id>
+    <id>https://test-blog.davep.dev/2023/12/14/Steam-Deck.html</id>
     <title>Steam Deck</title>
     <updated>2023-12-14T16:47:00+01:00</updated>
     <content type="html">&lt;p&gt;Back in 2021, I think it was, when Value first announced the Steam Deck, I
@@ -154,7 +154,7 @@ for example.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/12/14/Steam-Deck.html"/>
+    <link href="https://test-blog.davep.dev/2023/12/14/Steam-Deck.html"/>
     <category term="Tech"/>
     <category term="gaming"/>
     <category term="Steam"/>
@@ -163,7 +163,7 @@ for example.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump
     <published>2023-12-14T16:47:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/12/08/when-it-does-not-just-work.html</id>
+    <id>https://test-blog.davep.dev/2023/12/08/when-it-does-not-just-work.html</id>
     <title>When it doesn't just work</title>
     <updated>2023-12-08T10:32:00+01:00</updated>
     <content type="html">&lt;p&gt;My journey into the Apple ecosystem has been gradual but all-consuming. I've
@@ -234,14 +234,14 @@ example of the hardware is displays&lt;sup id="fnref:2"&gt;&lt;a class="footnote
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/12/08/when-it-does-not-just-work.html"/>
+    <link href="https://test-blog.davep.dev/2023/12/08/when-it-does-not-just-work.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <category term="watch"/>
     <published>2023-12-08T10:32:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/10/20/constant-siri-voice-loss.html</id>
+    <id>https://test-blog.davep.dev/2023/10/20/constant-siri-voice-loss.html</id>
     <title>Constant Siri voice loss</title>
     <updated>2023-10-20T13:04:00+01:00</updated>
     <content type="html">&lt;p&gt;This seems to have started with iOS 17, and I can't narrow down the how and
@@ -260,7 +260,7 @@ track of when it happens -- and I think I should from now on -- but it feels
 like it happens every couple of days; I almost always notice it first thing
 in the morning, the first time I ask the phone or the headphones something.&lt;/p&gt;
 &lt;p&gt;I hope it is some sort of iOS 17 weirdness and is gone when 17.1 turns up.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/10/20/constant-siri-voice-loss.html"/>
+    <link href="https://test-blog.davep.dev/2023/10/20/constant-siri-voice-loss.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <category term="iPhone"/>
@@ -268,7 +268,7 @@ in the morning, the first time I ask the phone or the headphones something.&lt;/
     <published>2023-10-20T13:04:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/10/16/linkedin-is-useless.html</id>
+    <id>https://test-blog.davep.dev/2023/10/16/linkedin-is-useless.html</id>
     <title>LinkedIn is useless</title>
     <updated>2023-10-16T14:16:00+01:00</updated>
     <content type="html">&lt;p&gt;I have a LinkedIn profile more by accident than on purpose. For most of that
@@ -308,13 +308,13 @@ social graph. But...&lt;/p&gt;
 &lt;p&gt;Repo. O_o&lt;/p&gt;
 &lt;p&gt;o_O&lt;/p&gt;
 &lt;p&gt;I can't even.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/10/16/linkedin-is-useless.html"/>
+    <link href="https://test-blog.davep.dev/2023/10/16/linkedin-is-useless.html"/>
     <category term="Tech"/>
     <category term="LinkedIn"/>
     <published>2023-10-16T14:16:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/10/14/going-full-apple-search.html</id>
+    <id>https://test-blog.davep.dev/2023/10/14/going-full-apple-search.html</id>
     <title>Going full Apple search</title>
     <updated>2023-10-14T08:39:00+01:00</updated>
     <content type="html">&lt;p&gt;For as long as I've had a smartphone -- so ever since the &lt;a href="https://en.wikipedia.org/wiki/HTC_Magic" rel="noopener noreferrer" target="_blank"&gt;HTC
@@ -340,13 +340,13 @@ Google, but I do like the idea of search leaning into what Spotlight knows
 about my stuff too.&lt;/p&gt;
 &lt;p&gt;Also, on my phone at least, it has the added benefit of freeing up a slot in
 the dock at the bottom of the home screen.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/10/14/going-full-apple-search.html"/>
+    <link href="https://test-blog.davep.dev/2023/10/14/going-full-apple-search.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <published>2023-10-14T08:39:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/09/23/apple-design.html</id>
+    <id>https://test-blog.davep.dev/2023/09/23/apple-design.html</id>
     <title>Apple Design</title>
     <updated>2023-09-23T08:10:00+01:00</updated>
     <content type="html">&lt;p&gt;As someone who started out in the Android ecosystem when it came to smart
@@ -379,7 +379,7 @@ look so terrible.&lt;/p&gt;
 &lt;p&gt;The &lt;em&gt;"eh, let's just shove it here"&lt;/em&gt; approach that seems to be on display
 here almost reminds me of &lt;a href="/2015/10/07/imac-time-wiggle.html"&gt;the "time wiggle" that used to mildly annoy me
 back on my iMac&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/09/23/apple-design.html"/>
+    <link href="https://test-blog.davep.dev/2023/09/23/apple-design.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <category term="iOS"/>
@@ -388,7 +388,7 @@ back on my iMac&lt;/a&gt;.&lt;/p&gt;</content>
     <published>2023-09-23T08:10:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/08/12/the-homepod-fixed-itself.html</id>
+    <id>https://test-blog.davep.dev/2023/08/12/the-homepod-fixed-itself.html</id>
     <title>The HomePod fixed itself</title>
     <updated>2023-08-12T07:46:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;a href="/2023/07/29/home-pod-stuck-installing.html#home-pod-stuck-installing"&gt;A couple of weeks
@@ -415,13 +415,13 @@ responding. A quick reset seems to have fixed that.&lt;/p&gt;
 &lt;p&gt;I guess it's good to know: if it happens again, it'll keep on working as the
 speaker for my Apple TV, and it'll eventually sort itself out even if I
 don't muck about with a hard reset.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/08/12/the-homepod-fixed-itself.html"/>
+    <link href="https://test-blog.davep.dev/2023/08/12/the-homepod-fixed-itself.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <published>2023-08-12T07:46:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/08/10/i-turned-it-off-and-on-again.html</id>
+    <id>https://test-blog.davep.dev/2023/08/10/i-turned-it-off-and-on-again.html</id>
     <title>I turned it off and on again</title>
     <updated>2023-08-10T18:17:00+01:00</updated>
     <content type="html">&lt;p&gt;Following on from &lt;a href="/2023/08/08/strange-obsidian-sync-issue.html"&gt;the previous
@@ -445,7 +445,7 @@ killing it).&lt;/p&gt;
 made edits to open entries and &lt;strong&gt;the edits started to flow&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;So, yup, looks like it was a simple case of &lt;em&gt;"turn it off and on again"&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Apple: &lt;code&gt;#ItJustWorks&lt;/code&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/08/10/i-turned-it-off-and-on-again.html"/>
+    <link href="https://test-blog.davep.dev/2023/08/10/i-turned-it-off-and-on-again.html"/>
     <category term="Tech"/>
     <category term="Obsidian"/>
     <category term="Apple"/>
@@ -455,7 +455,7 @@ made edits to open entries and &lt;strong&gt;the edits started to flow&lt;/stron
     <published>2023-08-10T18:17:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/08/08/strange-obsidian-sync-issue.html</id>
+    <id>https://test-blog.davep.dev/2023/08/08/strange-obsidian-sync-issue.html</id>
     <title>Strange Obsidian sync issue</title>
     <updated>2023-08-08T20:55:00+01:00</updated>
     <content type="html">&lt;p&gt;Since October last year I've been getting into using
@@ -486,7 +486,7 @@ etc, etc... but it's not in the "vault" as seen from the &lt;code&gt;Files&lt;/c
 find. I suspect I'm going to need some proper clear time, without other
 distractions, and experiment with all the edit and sync options and see what
 works and what fails.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/08/08/strange-obsidian-sync-issue.html"/>
+    <link href="https://test-blog.davep.dev/2023/08/08/strange-obsidian-sync-issue.html"/>
     <category term="Tech"/>
     <category term="Obsidian"/>
     <category term="Apple"/>
@@ -496,7 +496,7 @@ works and what fails.&lt;/p&gt;</content>
     <published>2023-08-08T20:55:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/29/home-pod-stuck-installing.html</id>
+    <id>https://test-blog.davep.dev/2023/07/29/home-pod-stuck-installing.html</id>
     <title>HomePod Stuck Installing Update</title>
     <updated>2023-07-29T07:56:00+01:00</updated>
     <content type="html">&lt;p&gt;I have three HomePods. I have a Mini in the kitchen and one in the bedroom.
@@ -522,13 +522,13 @@ left is to do a full reset, removing it from my Home, doing a factory reset,
 and then setting it up again. I'm sure it's something that'll take 10
 minutes or so; but it's an annoyance.&lt;/p&gt;
 &lt;p&gt;Apple: &lt;code&gt;#ItJustWorks&lt;/code&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/07/29/home-pod-stuck-installing.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/29/home-pod-stuck-installing.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <published>2023-07-29T07:56:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/27/quiche-reader.html</id>
+    <id>https://test-blog.davep.dev/2023/07/27/quiche-reader.html</id>
     <title>Quiche Reader</title>
     <updated>2023-07-27T08:42:00+01:00</updated>
     <content type="html">&lt;p&gt;I can't quite remember &lt;em&gt;where&lt;/em&gt; I found this this week, I think it might have
@@ -568,7 +568,7 @@ the bus now!&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/07/27/quiche-reader.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/27/quiche-reader.html"/>
     <category term="Tech"/>
     <category term="software"/>
     <category term="reading"/>
@@ -579,7 +579,7 @@ the bus now!&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump
     <published>2023-07-27T08:42:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2022/06/03/failed-successfully.html</id>
+    <id>https://test-blog.davep.dev/2022/06/03/failed-successfully.html</id>
     <title>Failed successfully</title>
     <updated>2022-06-03T09:05:05+01:00</updated>
     <content type="html">&lt;p&gt;A couple of days back (for vague values of "couple", of course), first of
@@ -613,14 +613,14 @@ right.&lt;/p&gt;
 &lt;p&gt;But here we are, with a nice friendly green icon showing a tick and a
 friendly big "Thank you" followed by smaller text going "aye shit didn't
 work pal".&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2022/06/03/failed-successfully.html"/>
+    <link href="https://test-blog.davep.dev/2022/06/03/failed-successfully.html"/>
     <category term="Tech"/>
     <category term="UI"/>
     <category term="UX"/>
     <published>2022-06-03T09:05:05+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2022/05/28/my-vr-recording-setup.html</id>
+    <id>https://test-blog.davep.dev/2022/05/28/my-vr-recording-setup.html</id>
     <title>My VR recording setup</title>
     <updated>2022-05-28T17:01:00+01:00</updated>
     <content type="html">&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
@@ -740,7 +740,7 @@ with lots of software along the way, all talking at once.&lt;/p&gt;
 &lt;p&gt;Sometimes, on occasion, it takes a reboot or five to make it all work
 together.&lt;/p&gt;
 &lt;p&gt;Really, it's a wonder it ever works. ;-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2022/05/28/my-vr-recording-setup.html"/>
+    <link href="https://test-blog.davep.dev/2022/05/28/my-vr-recording-setup.html"/>
     <category term="Tech"/>
     <category term="VR"/>
     <category term="YouTube"/>
@@ -748,7 +748,7 @@ together.&lt;/p&gt;
     <published>2022-05-28T17:01:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/10/23/why-i-really-like-fish-abbreviations.html</id>
+    <id>https://test-blog.davep.dev/2019/10/23/why-i-really-like-fish-abbreviations.html</id>
     <title>Why I really like fish abbreviations</title>
     <updated>2019-10-23T00:18:00+01:00</updated>
     <content type="html">&lt;p&gt;&lt;em&gt;I'm filing this as a TIL because, while it wasn't T, I did L it very
@@ -855,14 +855,14 @@ type magically expand as you do things, it makes you look like you can type
 even faster than you normally can! ;-)&lt;/p&gt;
 &lt;p&gt;PS: If you've never tried &lt;code&gt;fish&lt;/code&gt; before and you're curious, it's easy to
 &lt;a href="https://rootnroll.com/d/fish-shell/" rel="noopener noreferrer" target="_blank"&gt;try in your browser&lt;/a&gt;.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/10/23/why-i-really-like-fish-abbreviations.html"/>
+    <link href="https://test-blog.davep.dev/2019/10/23/why-i-really-like-fish-abbreviations.html"/>
     <category term="Tech"/>
     <category term="fish"/>
     <category term="shell"/>
     <published>2019-10-23T00:18:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2017/03/13/i_want_to_like_gboard.html</id>
+    <id>https://test-blog.davep.dev/2017/03/13/i_want_to_like_gboard.html</id>
     <title>I want to like Gboard</title>
     <updated>2017-03-13T08:29:16+00:00</updated>
     <content type="html">&lt;p&gt;I want to like Gboard. On paper it looks really rather good. It's a keyboard
@@ -927,14 +927,14 @@ frankly stupid.&lt;/p&gt;
 &lt;p&gt;I guess I'm going to have to keep Gboard as a backup keyboard for those
 times when I need to find the perfect gif.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Google WTF" src="http://i.imgur.com/0mw1I8e.gif" /&gt;&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2017/03/13/i_want_to_like_gboard.html"/>
+    <link href="https://test-blog.davep.dev/2017/03/13/i_want_to_like_gboard.html"/>
     <category term="Tech"/>
     <category term="Google"/>
     <category term="Android"/>
     <published>2017-03-13T08:29:16+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2017/03/12/google_now_achievements?.html</id>
+    <id>https://test-blog.davep.dev/2017/03/12/google_now_achievements?.html</id>
     <title>Google Now Achievements?</title>
     <updated>2017-03-12T12:16:17+00:00</updated>
     <content type="html">&lt;p&gt;Over the past couple or so weeks I've been having some issues with Google
@@ -960,13 +960,13 @@ I'm not supposed to be seeing and it's confusing the client app. Okay, I
 don't &lt;em&gt;know&lt;/em&gt; that's the case, but it has that sort of feel.&lt;/p&gt;
 &lt;p&gt;So now I need to go looking for what this Achievements thing is all about.&lt;/p&gt;
 &lt;p&gt;Using Google, obviously.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2017/03/12/google_now_achievements?.html"/>
+    <link href="https://test-blog.davep.dev/2017/03/12/google_now_achievements?.html"/>
     <category term="Tech"/>
     <category term="Google"/>
     <published>2017-03-12T12:16:17+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2017/03/08/hello_google_pixel.html</id>
+    <id>https://test-blog.davep.dev/2017/03/08/hello_google_pixel.html</id>
     <title>Hello Google Pixel</title>
     <updated>2017-03-08T12:22:05+00:00</updated>
     <content type="html">&lt;p&gt;For the past two years I've, mostly, being happily using a Google Nexus 6 as
@@ -1012,7 +1012,7 @@ gets exposed to rain would be nice.&lt;/p&gt;
 &lt;p&gt;Other than that... there's not much else to say right now. It works and
 works well, the move from the N6 to it was pretty smooth and the Pixel has
 fallen perfectly into my normal routine.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2017/03/08/hello_google_pixel.html"/>
+    <link href="https://test-blog.davep.dev/2017/03/08/hello_google_pixel.html"/>
     <category term="Tech"/>
     <category term="Google"/>
     <category term="Android"/>
@@ -1020,7 +1020,7 @@ fallen perfectly into my normal routine.&lt;/p&gt;</content>
     <published>2017-03-08T12:22:05+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2016/11/03/a_bit_of_a_backlog_at_the_apple_store.html</id>
+    <id>https://test-blog.davep.dev/2016/11/03/a_bit_of_a_backlog_at_the_apple_store.html</id>
     <title>A bit of a backlog at the Apple store</title>
     <updated>2016-11-03T13:45:35+00:00</updated>
     <content type="html">&lt;p&gt;Over the past couple or so
@@ -1060,7 +1060,7 @@ future and make a special trip into Edinburgh just so someone can check out
 a sticky key on my Macbook.&lt;/p&gt;
 &lt;p&gt;Remind me again how the nice thing with Apple gear is that it "just
 works"...&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2016/11/03/a_bit_of_a_backlog_at_the_apple_store.html"/>
+    <link href="https://test-blog.davep.dev/2016/11/03/a_bit_of_a_backlog_at_the_apple_store.html"/>
     <category term="Tech"/>
     <category term="Apple"/>
     <category term="iMac"/>
@@ -1068,7 +1068,7 @@ works"...&lt;/p&gt;</content>
     <published>2016-11-03T13:45:35+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2016/10/31/evernotes_confusing_menu.html</id>
+    <id>https://test-blog.davep.dev/2016/10/31/evernotes_confusing_menu.html</id>
     <title>Evernote's confusing menu</title>
     <updated>2016-10-31T11:38:41+00:00</updated>
     <content type="html">&lt;p&gt;The other day I stumbled on a tip about Evernote. It
@@ -1117,7 +1117,7 @@ and enabling the option, sorted it. It's still really odd they'd promote the
 facility via the blog and not mention it, and also very odd that the option
 would always show until the first time you're in a position to use it, and
 then it'd disappear.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2016/10/31/evernotes_confusing_menu.html"/>
+    <link href="https://test-blog.davep.dev/2016/10/31/evernotes_confusing_menu.html"/>
     <category term="Tech"/>
     <category term="Evernote"/>
     <category term="coding"/>

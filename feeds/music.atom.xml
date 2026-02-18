@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.888271+00:00</updated>
-  <link href="https://blog.davep.org/feeds/music.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.278316+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/music.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Music" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2023/07/06/dark-waters.html</id>
+    <id>https://test-blog.davep.dev/2023/07/06/dark-waters.html</id>
     <title>Dark Waters</title>
     <updated>2023-07-06T07:36:00+01:00</updated>
     <content type="html">&lt;p&gt;More than ever I'm listening to music while I work. Despite having grown up
@@ -37,7 +37,7 @@ most-played album this year. According to last.fm it's at the top of the
 albums I've played (in places where I have scrobbling set up) in the last
 365 days.&lt;/p&gt;
 &lt;p&gt;&lt;img alt="My last 365 days of albums on last.fm" src="/attachments/2023/07/06/AlbumsInLast365Days.png#centre" /&gt;&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/07/06/dark-waters.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/06/dark-waters.html"/>
     <category term="Music"/>
     <category term="Music"/>
     <published>2023-07-06T07:36:00+01:00</published>

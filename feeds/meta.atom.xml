@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.885395+00:00</updated>
-  <link href="https://blog.davep.org/feeds/meta.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.275957+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/meta.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Meta" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2023/07/11/dot-files.html</id>
+    <id>https://test-blog.davep.dev/2023/07/11/dot-files.html</id>
     <title>Dot Files</title>
     <updated>2023-07-11T20:50:00+01:00</updated>
     <content type="html">&lt;p&gt;While I'm still &lt;a href="/2023/07/05/the-switch-has-been-made.html"&gt;in blog-tinkering
@@ -36,13 +36,13 @@ bash script called &lt;code&gt;myenv&lt;/code&gt;. On a new machine, once I've g
 setup that I can clone from GitHub, I drag this down and run the script and
 most of the rest of the environment follows.&lt;/p&gt;
 &lt;p&gt;It's quite satisfying when I need to use it.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/07/11/dot-files.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/11/dot-files.html"/>
     <category term="Meta"/>
     <category term="Blogging"/>
     <published>2023-07-11T20:50:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/05/the-switch-has-been-made.html</id>
+    <id>https://test-blog.davep.dev/2023/07/05/the-switch-has-been-made.html</id>
     <title>The switch has been made</title>
     <updated>2023-07-05T17:56:00+01:00</updated>
     <content type="html">&lt;p&gt;Well, it didn't take as long as I expected it to. Just &lt;a href="/2023/07/04/considering-pelican.html#considering-pelican"&gt;yesterday
@@ -90,14 +90,14 @@ the way back to the first post; as best as I can tell I've managed that.&lt;/p&g
 &lt;p&gt;So far I'm pleased with the result. I'm going to live with the look/theme
 for a wee while and see how it sits for me. I'm sure I'll tweak it a bit as
 time goes on, but at the moment I'm comfortable with how it looks.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/07/05/the-switch-has-been-made.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/05/the-switch-has-been-made.html"/>
     <category term="Meta"/>
     <category term="Python"/>
     <category term="Blogging"/>
     <published>2023-07-05T17:56:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/04/considering-pelican.html</id>
+    <id>https://test-blog.davep.dev/2023/07/04/considering-pelican.html</id>
     <title>Considering Pelican</title>
     <updated>2023-07-04T08:32:00+01:00</updated>
     <content type="html">&lt;p&gt;Since getting my blog editing environment set up on the "new" machine &lt;a href="/2023/07/02/catching-up.html"&gt;a
@@ -170,14 +170,14 @@ into that just for one tool... nah.&amp;#160;&lt;a class="footnote-backref" href
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/07/04/considering-pelican.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/04/considering-pelican.html"/>
     <category term="Meta"/>
     <category term="Python"/>
     <category term="Blogging"/>
     <published>2023-07-04T08:32:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/07/02/catching-up.html</id>
+    <id>https://test-blog.davep.dev/2023/07/02/catching-up.html</id>
     <title>Catching up</title>
     <updated>2023-07-02T08:00:00+01:00</updated>
     <content type="html">&lt;p&gt;So... erm... yeah... I did it again. I looked away for a moment and somehow
@@ -210,14 +210,14 @@ important or anything like that, it's about just getting stuff down and
 creating and recording.&lt;/p&gt;
 &lt;p&gt;Note of course I said "try" and make a promise.&lt;/p&gt;
 &lt;p&gt;We'll see. ;-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/07/02/catching-up.html"/>
+    <link href="https://test-blog.davep.dev/2023/07/02/catching-up.html"/>
     <category term="Meta"/>
     <category term="Mac"/>
     <category term="Apple"/>
     <published>2023-07-02T08:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2022/05/20/im-back.html</id>
+    <id>https://test-blog.davep.dev/2022/05/20/im-back.html</id>
     <title>I'm back!</title>
     <updated>2022-05-20T12:44:00+01:00</updated>
     <content type="html">&lt;p&gt;I'm back! Almost. More or less. In more ways than one. First off, as often
@@ -261,14 +261,14 @@ the core tech (Github pages, Markdown and Jekyll, Emacs to edit, etc), I'd
 like to tinker with the look and layout of the blog. The content will remain
 the same though.&lt;/p&gt;
 &lt;p&gt;So, yeah, anyway, if you're reading this... hey, it's good to be back. :-)&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2022/05/20/im-back.html"/>
+    <link href="https://test-blog.davep.dev/2022/05/20/im-back.html"/>
     <category term="Meta"/>
     <category term="news"/>
     <category term="blogging"/>
     <published>2022-05-20T12:44:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2019/10/18/time-to-move-on.html</id>
+    <id>https://test-blog.davep.dev/2019/10/18/time-to-move-on.html</id>
     <title>Time to move on</title>
     <updated>2019-10-18T17:42:00+01:00</updated>
     <content type="html">&lt;p&gt;It's well over a year since I last wrote something on this blog. As
@@ -295,13 +295,13 @@ time. So that would seem to fit even better.&lt;/p&gt;
 quiet, that's because it has been quiet for a while and I'm now going to try
 and concentrate elsewhere, with a wish to do some coding-related writing now
 and again.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2019/10/18/time-to-move-on.html"/>
+    <link href="https://test-blog.davep.dev/2019/10/18/time-to-move-on.html"/>
     <category term="Meta"/>
     <category term="blogging"/>
     <published>2019-10-18T17:42:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2015/06/18/hello-world.html</id>
+    <id>https://test-blog.davep.dev/2015/06/18/hello-world.html</id>
     <title>Hello, World!</title>
     <updated>2015-06-18T14:53:00+01:00</updated>
     <content type="html">&lt;p&gt;Hello, world.&lt;/p&gt;
@@ -343,7 +343,7 @@ nicer if it was actually available via a URL that looks like the name I've
 attached to the blog. &lt;strong&gt;Update:&lt;/strong&gt; This has now happened.&lt;/p&gt;
 &lt;p&gt;Anyway, that's it for now. Time to push this up and think some more about
 where it'll go from here.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2015/06/18/hello-world.html"/>
+    <link href="https://test-blog.davep.dev/2015/06/18/hello-world.html"/>
     <category term="Meta"/>
     <category term="blogging"/>
     <category term="Mac"/>

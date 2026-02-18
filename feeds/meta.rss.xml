@@ -2,16 +2,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>davep</title>
-    <link>https://blog.davep.org</link>
+    <link>https://test-blog.davep.dev</link>
     <description>Posts in category "Meta" from davep</description>
-    <atom:link href="https://blog.davep.org/feeds/meta.rss.xml" rel="self"/>
+    <atom:link href="https://test-blog.davep.dev/feeds/meta.rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 17:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:44:20 +0000</lastBuildDate>
     <item>
       <title>Dot Files</title>
-      <link>https://blog.davep.org/2023/07/11/dot-files.html</link>
+      <link>https://test-blog.davep.dev/2023/07/11/dot-files.html</link>
       <description>&lt;p&gt;While I'm still &lt;a href="/2023/07/05/the-switch-has-been-made.html"&gt;in blog-tinkering
 mode&lt;/a&gt; (long may it last!), I
 thought it might be handy to keep a page kicking around that has links to
@@ -37,14 +37,14 @@ bash script called &lt;code&gt;myenv&lt;/code&gt;. On a new machine, once I've g
 setup that I can clone from GitHub, I drag this down and run the script and
 most of the rest of the environment follows.&lt;/p&gt;
 &lt;p&gt;It's quite satisfying when I need to use it.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/11/dot-files.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/11/dot-files.html</guid>
       <category>Meta</category>
       <category>Blogging</category>
       <pubDate>Tue, 11 Jul 2023 20:50:00 +0100</pubDate>
     </item>
     <item>
       <title>The switch has been made</title>
-      <link>https://blog.davep.org/2023/07/05/the-switch-has-been-made.html</link>
+      <link>https://test-blog.davep.dev/2023/07/05/the-switch-has-been-made.html</link>
       <description>&lt;p&gt;Well, it didn't take as long as I expected it to. Just &lt;a href="/2023/07/04/considering-pelican.html#considering-pelican"&gt;yesterday
 morning&lt;/a&gt; I was
 giving &lt;a href="https://getpelican.com/" rel="noopener noreferrer" target="_blank"&gt;Pelican&lt;/a&gt; a look over as a possible engine
@@ -90,7 +90,7 @@ the way back to the first post; as best as I can tell I've managed that.&lt;/p&g
 &lt;p&gt;So far I'm pleased with the result. I'm going to live with the look/theme
 for a wee while and see how it sits for me. I'm sure I'll tweak it a bit as
 time goes on, but at the moment I'm comfortable with how it looks.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/05/the-switch-has-been-made.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/05/the-switch-has-been-made.html</guid>
       <category>Meta</category>
       <category>Python</category>
       <category>Blogging</category>
@@ -98,7 +98,7 @@ time goes on, but at the moment I'm comfortable with how it looks.&lt;/p&gt;</de
     </item>
     <item>
       <title>Considering Pelican</title>
-      <link>https://blog.davep.org/2023/07/04/considering-pelican.html</link>
+      <link>https://test-blog.davep.dev/2023/07/04/considering-pelican.html</link>
       <description>&lt;p&gt;Since getting my blog editing environment set up on the "new" machine &lt;a href="/2023/07/02/catching-up.html"&gt;a
 couple of days back&lt;/a&gt; I've been thinking some
 more about moving away from Jekyll. Jekyll itself has served me well since I
@@ -169,7 +169,7 @@ into that just for one tool... nah.&amp;#160;&lt;a class="footnote-backref" href
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/04/considering-pelican.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/04/considering-pelican.html</guid>
       <category>Meta</category>
       <category>Python</category>
       <category>Blogging</category>
@@ -177,7 +177,7 @@ into that just for one tool... nah.&amp;#160;&lt;a class="footnote-backref" href
     </item>
     <item>
       <title>Catching up</title>
-      <link>https://blog.davep.org/2023/07/02/catching-up.html</link>
+      <link>https://test-blog.davep.dev/2023/07/02/catching-up.html</link>
       <description>&lt;p&gt;So... erm... yeah... I did it again. I looked away for a moment and somehow
 &lt;a href="/2022/12/16/oidia.html"&gt;almost 7 months passed without a post&lt;/a&gt;! It's so
 easily done too isn't it? While, &lt;a href="/2022/05/20/im-back.html"&gt;when I revived this blog last
@@ -208,7 +208,7 @@ important or anything like that, it's about just getting stuff down and
 creating and recording.&lt;/p&gt;
 &lt;p&gt;Note of course I said "try" and make a promise.&lt;/p&gt;
 &lt;p&gt;We'll see. ;-)&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/02/catching-up.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/02/catching-up.html</guid>
       <category>Meta</category>
       <category>Mac</category>
       <category>Apple</category>
@@ -216,7 +216,7 @@ creating and recording.&lt;/p&gt;
     </item>
     <item>
       <title>I'm back!</title>
-      <link>https://blog.davep.org/2022/05/20/im-back.html</link>
+      <link>https://test-blog.davep.dev/2022/05/20/im-back.html</link>
       <description>&lt;p&gt;I'm back! Almost. More or less. In more ways than one. First off, as often
 happens with blogs (we've all been there right?), I've been away from
 blogging for a while. I've still been online, still been waffling away &lt;a href="https://twitter.com/davepdotorg" rel="noopener noreferrer" target="_blank"&gt;on
@@ -258,7 +258,7 @@ the core tech (Github pages, Markdown and Jekyll, Emacs to edit, etc), I'd
 like to tinker with the look and layout of the blog. The content will remain
 the same though.&lt;/p&gt;
 &lt;p&gt;So, yeah, anyway, if you're reading this... hey, it's good to be back. :-)&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2022/05/20/im-back.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2022/05/20/im-back.html</guid>
       <category>Meta</category>
       <category>news</category>
       <category>blogging</category>
@@ -266,7 +266,7 @@ the same though.&lt;/p&gt;
     </item>
     <item>
       <title>Time to move on</title>
-      <link>https://blog.davep.org/2019/10/18/time-to-move-on.html</link>
+      <link>https://test-blog.davep.dev/2019/10/18/time-to-move-on.html</link>
       <description>&lt;p&gt;It's well over a year since I last wrote something on this blog. As
 mentioned in the last post (and the one before), it's not for bad reasons or
 anything like that. Being in a new job, which actually isn't all that new
@@ -291,14 +291,14 @@ time. So that would seem to fit even better.&lt;/p&gt;
 quiet, that's because it has been quiet for a while and I'm now going to try
 and concentrate elsewhere, with a wish to do some coding-related writing now
 and again.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2019/10/18/time-to-move-on.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2019/10/18/time-to-move-on.html</guid>
       <category>Meta</category>
       <category>blogging</category>
       <pubDate>Fri, 18 Oct 2019 17:42:00 +0100</pubDate>
     </item>
     <item>
       <title>Hello, World!</title>
-      <link>https://blog.davep.org/2015/06/18/hello-world.html</link>
+      <link>https://test-blog.davep.dev/2015/06/18/hello-world.html</link>
       <description>&lt;p&gt;Hello, world.&lt;/p&gt;
 &lt;p&gt;So I've decided that it's time I had a blog again. An actual blog. Not a set
 of posts on &lt;a href="https://plus.google.com/+DavePearson/posts" rel="noopener noreferrer" target="_blank"&gt;Google+&lt;/a&gt; or a torrent
@@ -338,7 +338,7 @@ nicer if it was actually available via a URL that looks like the name I've
 attached to the blog. &lt;strong&gt;Update:&lt;/strong&gt; This has now happened.&lt;/p&gt;
 &lt;p&gt;Anyway, that's it for now. Time to push this up and think some more about
 where it'll go from here.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2015/06/18/hello-world.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2015/06/18/hello-world.html</guid>
       <category>Meta</category>
       <category>blogging</category>
       <category>Mac</category>

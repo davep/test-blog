@@ -2,16 +2,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>davep</title>
-    <link>https://blog.davep.org</link>
+    <link>https://test-blog.davep.dev</link>
     <description>Posts in category "TIL" from davep</description>
-    <atom:link href="https://blog.davep.org/feeds/til.rss.xml" rel="self"/>
+    <atom:link href="https://test-blog.davep.dev/feeds/til.rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Feb 2026 17:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 17:44:20 +0000</lastBuildDate>
     <item>
       <title>TIL - uvx.sh</title>
-      <link>https://blog.davep.org/2026/01/27/til-uvx-sh.html</link>
+      <link>https://test-blog.davep.dev/2026/01/27/til-uvx-sh.html</link>
       <description>&lt;p&gt;In the past few months, like a lot of folk in the Python world, I've been
 won over by &lt;a href="https://docs.astral.sh/uv/" rel="noopener noreferrer" target="_blank"&gt;&lt;code&gt;uv&lt;/code&gt;&lt;/a&gt;. When it comes to managing my
 own projects my journey over the past few years as been
@@ -40,7 +40,7 @@ about the &lt;em&gt;"just pipe this stuff via &lt;code&gt;sh&lt;/code&gt; trust 
 you are comfortable with suggesting this kind of install method it looks
 worth adding this to an application's installation documentation.&lt;/p&gt;
 &lt;p&gt;I think I'm going to start mentioning it as an option.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2026/01/27/til-uvx-sh.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2026/01/27/til-uvx-sh.html</guid>
       <category>TIL</category>
       <category>Python</category>
       <category>PyPI</category>
@@ -49,7 +49,7 @@ worth adding this to an application's installation documentation.&lt;/p&gt;
     </item>
     <item>
       <title>Cmd-Tab switcher on all screens</title>
-      <link>https://blog.davep.org/2023/07/14/cmd-tab-switcher-on-all-screens.html</link>
+      <link>https://test-blog.davep.dev/2023/07/14/cmd-tab-switcher-on-all-screens.html</link>
       <description>&lt;p&gt;This week, on Monday gone in fact, &lt;a href="https://www.textualize.io/" rel="noopener noreferrer" target="_blank"&gt;we&lt;/a&gt; moved
 office. We've now got a bigger space and, as part of that, bigger desks.
 Somewhat (but not entirely) coincidentally the work desk will also convert
@@ -91,7 +91,7 @@ home&lt;/a&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="J
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2023/07/14/cmd-tab-switcher-on-all-screens.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2023/07/14/cmd-tab-switcher-on-all-screens.html</guid>
       <category>TIL</category>
       <category>Apple</category>
       <category>Mac</category>
@@ -101,7 +101,7 @@ home&lt;/a&gt;.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="J
     </item>
     <item>
       <title>Swift TIL 12</title>
-      <link>https://blog.davep.org/2020/07/18/swift-til-12.html</link>
+      <link>https://test-blog.davep.dev/2020/07/18/swift-til-12.html</link>
       <description>&lt;p&gt;First a small aside: To be honest, the &lt;code&gt;T&lt;/code&gt; part of &lt;code&gt;TIL&lt;/code&gt; is getting to be
 less and less true with this series of posts, but the posts themselves serve
 a useful purpose for me. As I've been reading the book I'm working through,
@@ -183,7 +183,7 @@ this, but it was a handy test on the command line):&lt;/p&gt;
 test/experience the language feature on the command line.&lt;/p&gt;
 &lt;p&gt;I like it though. I figure &lt;a href="https://clojuredocs.org/clojure.core/when-let" rel="noopener noreferrer" target="_blank"&gt;all the best languages have conditional
 binding&lt;/a&gt;. ;-)&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/07/18/swift-til-12.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/07/18/swift-til-12.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -191,7 +191,7 @@ binding&lt;/a&gt;. ;-)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swift TIL 11</title>
-      <link>https://blog.davep.org/2020/07/11/swift-til-11.html</link>
+      <link>https://test-blog.davep.dev/2020/07/11/swift-til-11.html</link>
       <description>&lt;p&gt;This is one of those things, especially this little play to help appreciate
 the feature, that I'm filing under "kinda cool, but I am &lt;em&gt;never&lt;/em&gt; doing this
 in production".&lt;/p&gt;
@@ -252,7 +252,7 @@ use "emoji" as identifiers?&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Why yes. Yes we can. 😈&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/07/11/swift-til-11.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/07/11/swift-til-11.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -260,7 +260,7 @@ use "emoji" as identifiers?&lt;/p&gt;
     </item>
     <item>
       <title>Swift TIL 10</title>
-      <link>https://blog.davep.org/2020/07/05/swift-til-10.html</link>
+      <link>https://test-blog.davep.dev/2020/07/05/swift-til-10.html</link>
       <description>&lt;p&gt;My leisurely journey into getting to know Swift by reading and then making
 notes to myself in my blog continues, and this weekend I encountered
 &lt;code&gt;defer&lt;/code&gt;. As I was reading about Swift I did keep wondering when something
@@ -310,7 +310,7 @@ the idea of, up front, writing "look, any time there's a GTFO in the code
 that follows, this will happen" -- you're made aware pretty quickly of what
 to expect.&lt;/p&gt;
 &lt;p&gt;Anyway, it's good to know Swift has something similar to a &lt;code&gt;finally&lt;/code&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/07/05/swift-til-10.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/07/05/swift-til-10.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -318,7 +318,7 @@ to expect.&lt;/p&gt;
     </item>
     <item>
       <title>Swift TIL 9</title>
-      <link>https://blog.davep.org/2020/06/30/swift-til-9.html</link>
+      <link>https://test-blog.davep.dev/2020/06/30/swift-til-9.html</link>
       <description>&lt;p&gt;&lt;em&gt;Some may be happy to know that the frequency of these little notes to
 myself may reduce real soon, as I'm sort of caught up with my notes, mostly,
 and I'm unlikely to pick up the book that I'm reading for a couple or so
@@ -379,7 +379,7 @@ there's no obvious benefit either way, the choice of using &lt;code&gt;class&lt;
 &lt;code&gt;struct&lt;/code&gt; is something that could have performance implications. That's
 something for me to look into more another day; but this is a note here to
 myself that it's a thing to keep in mind.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/30/swift-til-9.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/30/swift-til-9.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -387,7 +387,7 @@ myself that it's a thing to keep in mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swift TIL 8</title>
-      <link>https://blog.davep.org/2020/06/29/swift-til-8.html</link>
+      <link>https://test-blog.davep.dev/2020/06/29/swift-til-8.html</link>
       <description>&lt;p&gt;Although I read up on it a few days back, it was only this evening that I
 fired up Emacs (well of course I'm testing Swift with Emacs, what did you
 think I'd do?!?) and dabbled with some code to really get a feel for how
@@ -495,7 +495,7 @@ That&lt;span class="w"&gt; &lt;/span&gt;totally&lt;span class="w"&gt; &lt;/span&
 so given the above I'd ensure I never end up in this sort of situation in
 the first place. But for the purposes of writing and compiling and running
 code and seeing what the different situations result in, it helped.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/29/swift-til-8.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/29/swift-til-8.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -503,7 +503,7 @@ code and seeing what the different situations result in, it helped.&lt;/p&gt;</d
     </item>
     <item>
       <title>Swift TIL 7</title>
-      <link>https://blog.davep.org/2020/06/28/swift-til-7.html</link>
+      <link>https://test-blog.davep.dev/2020/06/28/swift-til-7.html</link>
       <description>&lt;p&gt;This post is &lt;em&gt;very&lt;/em&gt; much a case of me writing it down to try and get it all
 straight in my head, and to make sure it sticks. The other day I was reading
 about Swift's types and type-equality checks, and as I'd expect from plenty
@@ -535,7 +535,7 @@ as code:&lt;/p&gt;
 
 &lt;p&gt;I think it makes a lot more sense. And having got there I felt I better
 understood it. I'm not 100% sure I'm 100% with it, but I'm getting there.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/28/swift-til-7.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/28/swift-til-7.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -543,7 +543,7 @@ understood it. I'm not 100% sure I'm 100% with it, but I'm getting there.&lt;/p&
     </item>
     <item>
       <title>Swift TIL 6</title>
-      <link>https://blog.davep.org/2020/06/27/swift-til-6.html</link>
+      <link>https://test-blog.davep.dev/2020/06/27/swift-til-6.html</link>
       <description>&lt;p&gt;I'm going to file this one under "it seems really unnecessary, but it's also
 kinda cool". While reading up about
 &lt;a href="https://docs.swift.org/swift-book/LanguageGuide/Protocols.html" rel="noopener noreferrer" target="_blank"&gt;protocols&lt;/a&gt;
@@ -589,7 +589,7 @@ object. For example:&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;I can see that being quite handy.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/27/swift-til-6.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/27/swift-til-6.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -597,7 +597,7 @@ object. For example:&lt;/p&gt;
     </item>
     <item>
       <title>Swift TIL 5</title>
-      <link>https://blog.davep.org/2020/06/26/switch-til-5.html</link>
+      <link>https://test-blog.davep.dev/2020/06/26/switch-til-5.html</link>
       <description>&lt;p&gt;I'm going to file this one under "it makes perfect sense, but I don't think
 it aids in making the code readable" -- something which I'm finding is a bit
 of a theme with Swift.&lt;/p&gt;
@@ -634,7 +634,7 @@ use &lt;code&gt;Self&lt;/code&gt; rather than having to use &lt;code&gt;Greeting
 setting things up for either mistyping or misreading code. You're going to
 want to hope that your development environment makes it super obvious what's
 a value and what's a type when it comes to using font choices.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/26/switch-til-5.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/26/switch-til-5.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -642,7 +642,7 @@ a value and what's a type when it comes to using font choices.&lt;/p&gt;</descri
     </item>
     <item>
       <title>Swift TIL 4</title>
-      <link>https://blog.davep.org/2020/06/25/swift-til-4.html</link>
+      <link>https://test-blog.davep.dev/2020/06/25/swift-til-4.html</link>
       <description>&lt;p&gt;Some languages favour a &lt;a href="https://www.python.org/dev/peps/pep-0020/" rel="noopener noreferrer" target="_blank"&gt;"one way to do
 it"&lt;/a&gt; approach, some favour
 &lt;a href="https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it" rel="noopener noreferrer" target="_blank"&gt;"there's more than one way to do
@@ -673,7 +673,7 @@ still struck me as rather odd on first reading. I also think it's worth me
 making a personal note about it because &lt;code&gt;foo.toggle()&lt;/code&gt; isn't going to stand
 out as much as &lt;code&gt;foo = !foo&lt;/code&gt; when reading code. At least not for a short
 while.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/25/swift-til-4.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/25/swift-til-4.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -681,7 +681,7 @@ while.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swift TIL 3</title>
-      <link>https://blog.davep.org/2020/06/24/swift-til-3.html</link>
+      <link>https://test-blog.davep.dev/2020/06/24/swift-til-3.html</link>
       <description>&lt;p&gt;Today's little "Swift TIL" is observers. While reading up on the language I
 was delighted to find that it has observer support baked right into the
 language, for any sort of variable. So code like this:&lt;/p&gt;
@@ -709,7 +709,7 @@ Swift is put to, I can think of many times when I'd have benefitted from
 that in my general day-to-day work. Of course, you can create an observer
 approach in any language really, but having an idiom that's part of the
 language feels nice and tidy.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/24/swift-til-3.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/24/swift-til-3.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -717,7 +717,7 @@ language feels nice and tidy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swift TIL 2</title>
-      <link>https://blog.davep.org/2020/06/23/swift-til-2.html</link>
+      <link>https://test-blog.davep.dev/2020/06/23/swift-til-2.html</link>
       <description>&lt;p&gt;&lt;a href="/2020/06/22/swift-til-1.html"&gt;Following on&lt;/a&gt; with writing little notes to
 myself so I remember some key things as I learn about Swift...&lt;/p&gt;
 &lt;p&gt;I sort of feel like this will make reading code a little harder, so it's one
@@ -734,7 +734,7 @@ ambiguous, you can omit &lt;code&gt;self.&lt;/code&gt; from the call. For exampl
 &lt;p&gt;This makes me feel a little uneasy, and I strongly suspect I'll always use
 &lt;code&gt;self.&lt;/code&gt; when writing such code: I'm a big fan of the idea that we write code
 for people, not for compilers.&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/23/swift-til-2.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/23/swift-til-2.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>
@@ -742,7 +742,7 @@ for people, not for compilers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swift TIL 1</title>
-      <link>https://blog.davep.org/2020/06/22/swift-til-1.html</link>
+      <link>https://test-blog.davep.dev/2020/06/22/swift-til-1.html</link>
       <description>&lt;p&gt;As &lt;a href="/2020/06/21/a-second-attempt-to-learn-swift.html"&gt;I mentioned
 yesterday&lt;/a&gt;,
 I'm going to make a small series of posts where I write down things that
@@ -758,7 +758,7 @@ them with backticks. Kind of like this:&lt;/p&gt;
 
 &lt;p&gt;I'm struggling to imagine a situation where I'd ever want to do this. I'm
 still unsure if my reaction is "that's cool" or "WTF?!?".&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://blog.davep.org/2020/06/22/swift-til-1.html</guid>
+      <guid isPermaLink="false">https://test-blog.davep.dev/2020/06/22/swift-til-1.html</guid>
       <category>TIL</category>
       <category>Swift</category>
       <category>Apple</category>

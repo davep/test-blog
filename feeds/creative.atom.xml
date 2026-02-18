@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://blog.davep.org</id>
+  <id>https://test-blog.davep.dev</id>
   <title>davep</title>
-  <updated>2026-02-18T17:39:42.883565+00:00</updated>
-  <link href="https://blog.davep.org/feeds/creative.atom.xml" rel="self"/>
-  <link href="https://blog.davep.org" rel="alternate"/>
+  <updated>2026-02-18T17:44:20.273979+00:00</updated>
+  <link href="https://test-blog.davep.dev/feeds/creative.atom.xml" rel="self"/>
+  <link href="https://test-blog.davep.dev" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Posts in category "Creative" from davep</subtitle>
   <entry>
-    <id>https://blog.davep.org/2023/10/18/i-got-a-youtube-play-button.html</id>
+    <id>https://test-blog.davep.dev/2023/10/18/i-got-a-youtube-play-button.html</id>
     <title>I got a YouTube play button!</title>
     <updated>2023-10-18T19:07:00+01:00</updated>
     <content type="html">&lt;p&gt;According to YouTube I joined up on 2006-09-04. I don't think that's quite
@@ -43,13 +43,13 @@ sausage rolls, socks, and a bunch of other stuff I've forgotten), and I was
 lucky to claim one of these almost the instant the email turned up.&lt;/p&gt;
 &lt;p&gt;It's very likely the only YouTube play button I'll ever receive. I think it
 will take pride of place on my desk.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2023/10/18/i-got-a-youtube-play-button.html"/>
+    <link href="https://test-blog.davep.dev/2023/10/18/i-got-a-youtube-play-button.html"/>
     <category term="Creative"/>
     <category term="YouTube"/>
     <published>2023-10-18T19:07:00+01:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2023/08/20/seen-by-davep-broke-again.html</id>
+    <id>https://test-blog.davep.dev/2023/08/20/seen-by-davep-broke-again.html</id>
     <title>Seen by davep broke (again)</title>
     <updated>2023-08-20T09:25:00+00:00</updated>
     <content type="html">&lt;p&gt;Almost &lt;a href="/2016/11/15/seen_by_davep_(the_return).html"&gt;seven years ago&lt;/a&gt; I took
@@ -158,14 +158,14 @@ Multiply that lots if you have a blue tick.&amp;#160;&lt;a class="footnote-backr
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content>
-    <link href="https://blog.davep.org/2023/08/20/seen-by-davep-broke-again.html"/>
+    <link href="https://test-blog.davep.dev/2023/08/20/seen-by-davep-broke-again.html"/>
     <category term="Creative"/>
     <category term="blogging"/>
     <category term="photography"/>
     <published>2023-08-20T09:25:00+00:00</published>
   </entry>
   <entry>
-    <id>https://blog.davep.org/2016/11/15/seen_by_davep_(the_return).html</id>
+    <id>https://test-blog.davep.dev/2016/11/15/seen_by_davep_(the_return).html</id>
     <title>Seen by davep (the return)</title>
     <updated>2016-11-15T15:52:15+00:00</updated>
     <content type="html">&lt;p&gt;A few years back, not long after I got my first smartphone (a HTC Magic), I
@@ -201,7 +201,7 @@ running, watching for any tweet of mine with the #photoblog tag and creating
 a post on the blog from it.&lt;/p&gt;
 &lt;p&gt;As for how often and what the content will be... simple: it'll be when I see
 something that I need to capture.&lt;/p&gt;</content>
-    <link href="https://blog.davep.org/2016/11/15/seen_by_davep_(the_return).html"/>
+    <link href="https://test-blog.davep.dev/2016/11/15/seen_by_davep_(the_return).html"/>
     <category term="Creative"/>
     <category term="blogging"/>
     <category term="photography"/>
