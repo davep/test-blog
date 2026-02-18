@@ -5,7 +5,7 @@ site_subtitle: "Code, Emacs, VR, Stuff..."
 site_url: "https://blog.davep.org"
 default_author: Dave Pearson
 
-site_logo: davep.jpeg
+site_logo: /davep.jpeg
 
 links:
   - title: davep@
