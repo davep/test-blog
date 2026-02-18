@@ -1,5 +1,5 @@
-content_dir: ~/temp/test-blog/content/
-output: ~/temp/test-blog/site
+content_dir: content
+output: site
 site_title: davep
 site_subtitle: "Code, Emacs, VR, Stuff..."
 site_url: "https://blog.davep.org"
