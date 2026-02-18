@@ -2,7 +2,7 @@ content_dir: content
 output: site
 site_title: davep
 site_subtitle: "Code, Emacs, VR, Stuff..."
-site_url: "https://blog.davep.org"
+site_url: "https://test-blog.davep.dev"
 default_author: Dave Pearson
 
 site_logo: /davep.jpeg
