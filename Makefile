@@ -1,15 +1,26 @@
+###############################################################################
+# Common make values.
+run      := uv run
+sync     := uv sync
+python   := $(run) python
+blogmore := $(run) blogmore
+
 .PHONY: setup
 setup:
-	uv sync
+	$(sync)
+
+.PHONY: update
+update:
+	$(sync) --upgrade
+
+.PHONY: lint
+lint:
+	$(blogmore) lint
 
 .PHONY: serve
 serve:
-	uv run blogmore serve
+	$(blogmore) serve
 
 .PHONY: build
 build:
-	uv run blogmore build
-
-.PHONY: publish
-publish:
-	uv run blogmore publish
+	$(blogmore) build
